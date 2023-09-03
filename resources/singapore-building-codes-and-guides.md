@@ -116,7 +116,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% tab title="SCDF" %}
 ## SCDF
 
-[**Fire Code 2018 (Web)**](https://www.scdf.gov.sg/firecode2018/firecode2018)
+[**Fire Code 2023 (Web)**](https://www.scdf.gov.sg/firecode2023)
 
 [**Fire Code 2013**](https://www.scdf.gov.sg/home/fire-safety/downloads/acts-codes-regulations/fire-code-2013)
 

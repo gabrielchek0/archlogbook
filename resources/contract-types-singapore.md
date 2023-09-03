@@ -1,7 +1,5 @@
 # Contract Types (Singapore)
 
-Type: Resources
-
 In Singapore, there are several contract types based either measurement or lumpsum, build only vs design & build contracts.
 
 There are also various institutes in Singapore that your project may be adopting the contracts. This is dependent on the project typology and whether it is a public government or private project.
@@ -58,7 +56,3 @@ To encourage greater collaboration and mutual trust between stakeholders in the 
 * Avoids disputes and encourages early dispute resolution
 
 Source: Building & Construction Authority Singapore \[[link](https://www1.bca.gov.sg/procurement/post-tender-stage/public-sector-standard-conditions-of-contract-psscoc)]
-
-**Next:**
-
-Measurement Contract
