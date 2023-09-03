@@ -44,6 +44,6 @@ Building constructed to approved drawings, on-site inspection and verification.
 
 Learn more about statutory requirements in Chapter 6:
 
-[06-building-code-compliance.md](../06-building-code-compliance.md "mention")
+[06-building-code-compliance](../06-building-code-compliance/ "mention")
 
 ***

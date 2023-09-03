@@ -58,7 +58,7 @@ We work to get approval from the various building authorities and ultimately tow
 
 There are many building authorities to get approvals from, ranging from urban planning, building control, sanitary/sewerage/drainage, fire safety, environment and many more..⠀
 
-[06 - Building Code Compliance ](../06-building-code-compliance.md)⠀⠀⠀⠀⠀⠀⠀⠀
+[06 - Building Code Compliance ](../06-building-code-compliance/)⠀⠀⠀⠀⠀⠀⠀⠀
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 

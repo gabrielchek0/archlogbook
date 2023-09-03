@@ -1,17 +1,23 @@
 # Resources
 
-Type: Main
-
 Check out my resources, specially curated for young and future architects!
 
-Calculators
+{% content-ref url="calculators.md" %}
+[calculators.md](calculators.md)
+{% endcontent-ref %}
 
-[Archi Practice Ebook (PDF Download)](https://www.notion.so/Archi-Practice-Ebook-PDF-Download-431e062aef8545898a7ce9584eb08d30?pvs=21)
+{% content-ref url="singapore-building-codes-and-guides.md" %}
+[singapore-building-codes-and-guides.md](singapore-building-codes-and-guides.md)
+{% endcontent-ref %}
 
-Singapore Building Codes & Guides
+{% content-ref url="contract-types-singapore.md" %}
+[contract-types-singapore.md](contract-types-singapore.md)
+{% endcontent-ref %}
 
-Contract Types (Singapore)
 
-Architecture Communities & Resources (Singapore)
 
-Building Material Suppliers (Singapore)
+### Future updates:
+
+Architecture Communities & Resources (Singapore) - coming soon!
+
+Building Material Suppliers (Singapore) - coming soon!

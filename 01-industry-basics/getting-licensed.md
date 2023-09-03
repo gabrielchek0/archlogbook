@@ -1,12 +1,8 @@
 # Getting Licensed
 
-Chapter: 01 - Industry Basics (01%20-%20Industry%20Basics%2088d5568ead9f418fb62cee627ee077b1.md) Last edited time: July 2, 2023 1:45 AM
-
 A major milestone for budding architects would be getting licensed as an Registered Architect.
 
 However, the journey towards getting licensed is long (2-5 years after Masters) but worth it, especially if you see yourself becoming an Architect in future.
-
-Jump to:
 
 Most countries require additional study, courses and exams after you graduate from your Bachelors. Some countries like Singapore require candidates to take Masters of Architecture course (1-2 more years) to be even eligible for the logging and exams.
 
@@ -25,9 +21,15 @@ As a candidate for the exams, you would need to be familiar with:
 
 (and so on…)
 
+
+
+{% hint style="info" %}
+The next section is for licensure process for architects in Singapore. If you are not based in Singapore, head over to the [next chapter](../02-urban-site-planning-building-design-concepts/).
+{% endhint %}
+
 ## **Process to becoming a licensed Architect in Singapore**
 
-Below is information relevant for future architects in Singapore. If you’re not based in Singapore, you can go to the next post : Next steps
+Below is information relevant for future architects in Singapore.
 
 If you’re looking to get QP, here’s what you need to do:
 
@@ -80,6 +82,3 @@ Check out the open source library full of compiled documents, past year papers a
 
 [YOUNG ARCHITECTS LIBRARY - Google Drive](https://drive.google.com/drive/folders/1Rhukq\_AHlvm-As9M0QVZnn8oS7EaSXQG)
 
-Next:
-
-Next steps

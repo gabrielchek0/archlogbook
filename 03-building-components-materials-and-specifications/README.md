@@ -1,15 +1,9 @@
 # 03 - Building Components, Materials & Specifications
 
-Type: Wiki
-
 Curious about the various components that make a building? Look no further.
 
-Untitled Database
+In this chapter, we will break down the various building components according to discipline.
 
-**Next Chapter:**
-
-04 - Project Management & Contract Administration
-
-**Previous Chapter:**
-
-02 - Urban/Site Planning, Building Design Concepts
+{% content-ref url="building-components.md" %}
+[building-components.md](building-components.md)
+{% endcontent-ref %}
