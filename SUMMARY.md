@@ -38,7 +38,7 @@
 * [02 - Urban/Site Planning, Building Design Concepts](02-urban-site-planning-building-design-concepts/README.md)
   * [Floor Levels](02-urban-site-planning-building-design-concepts/floor-levels.md)
   * [Wayfinding & Signages](02-urban-site-planning-building-design-concepts/wayfinding-and-signages.md)
-  * [Anthropometry](02-urban-site-planning-building-design-concepts/anthropometry.md)
+  * [Anthropometry](02-urban-site-planning-building-design-concepts/Anthropometry.md)
 * [03 - Building Components, Materials & Specifications](03-building-components-materials-and-specifications/README.md)
   * [Glass](03-building-components-materials-and-specifications/glass.md)
 * [04 - Project Management & Contract Administration](04-project-management-and-contract-administration.md)
