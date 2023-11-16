@@ -12,8 +12,8 @@ Remember, architecture is a lifelong journey. Fulfilling but tiring. So it is wi
 
 PS: If you know of someone who may benefit from reading this wiki, share this with them.
 
-{% content-ref url="content-feedback-contribution.md" %}
-[content-feedback-contribution.md](content-feedback-contribution.md)
+{% content-ref url="links/content-feedback-contribution.md" %}
+[content-feedback-contribution.md](links/content-feedback-contribution.md)
 {% endcontent-ref %}
 
 {% content-ref url="resources/" %}

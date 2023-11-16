@@ -6,8 +6,6 @@ For content feedback, marketing enquires, collaborations & contributions, please
 
 For sponsorships and donations, you can do so via [Paypal](https://www.paypal.com/paypalme/archlogbook).
 
-
-
 Back to:
 
-[.](./ "mention")
+[..](../ "mention")
