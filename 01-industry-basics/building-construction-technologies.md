@@ -10,9 +10,11 @@ Integrated Digital Delivery (IDD) is the use of digital technologies to integrat
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Read more about IDD:
+**Read more about IDD:**
 
 [Integrated Digital Delivery (IDD)](https://www1.bca.gov.sg/buildsg/digitalisation/integrated-digital-delivery-idd)
+
+
 
 ### Building Information Modelling (BIM)
 
@@ -69,7 +71,5 @@ Mass Engineered Timber (MET) is a building material comprising engineered wood p
 [The Dezeen guide to mass timber in architecture](https://www.dezeen.com/2023/03/01/dezeen-guide-mass-timber-revolution/)
 
 [Mass Engineered Timber](https://www1.bca.gov.sg/buildsg/productivity/design-for-manufacturing-and-assembly-dfma/mass-engineered-timber)
-
-
 
 **Source:** Building and Construction Authority Singapore, Stacked Homes, Dezeen

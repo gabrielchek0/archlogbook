@@ -1,3 +1,7 @@
+---
+description: The gap between education and practice - and how to bridge it
+---
+
 # Fresh Grad to Architect
 
 The gap between school and practice is much talked about but there are really no tangible solutions.

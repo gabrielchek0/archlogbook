@@ -15,4 +15,6 @@ Ultimately, the combination of BIM and drafting conventions enhances the quality
 
 In Singapore, drafting conventions relate to **CP83 (Code of practice for construction computer-aided design (CAD) - CAD symbols) (**[**link**](https://www.singaporestandardseshop.sg/Product/SSPdtDetail/138e9eb3-8ecb-4e86-8fbb-482ee3a9cbce)**)** and there are various **BIM/VDC/IDD guides (**[**link**](https://www1.bca.gov.sg/buildsg/digitalisation/integrated-digital-delivery-idd/idd-resources)**)** as well as upcoming **IFC-SG for Corenet X (**[**link**](https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x/resources/code-of-practice)**).**
 
-Seek help from your seniors and refer to proper tender and construction drawings (done in BIM) to get up to speed with the various drafting and BIM conventions.
+{% hint style="info" %}
+Do seek help from your seniors and refer to proper tender and construction drawings (done in BIM) to get up to speed with the various drafting and BIM conventions.
+{% endhint %}

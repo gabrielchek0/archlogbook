@@ -1,6 +1,8 @@
-# Understanding how the Industry works
+---
+description: Navigating the Supply Chain Of Architectural Practice
+---
 
-## You Are Part Of The Supply Chain Of Architectural Practice
+# Understanding how the Industry works
 
 To know how to thrive in the building industry, let's try to understand what a supply chain of architecture practice is and your role in it.
 

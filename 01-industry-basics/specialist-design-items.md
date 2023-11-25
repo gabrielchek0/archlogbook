@@ -2,7 +2,7 @@
 
 Architects work with external design specialists in a building project for various aspects of the building that requires special expertise.
 
-The list of specialists can be found under [Parties Involved](https://www.notion.so/Parties-Involved-a620cb07882848ccba6f5f71ba667cd3?pvs=21)
+The list of specialists can be found here: [parties-involved.md](parties-involved.md "mention")
 
 When the design work and certification is not under the Architect, it is important have the record so that the Architect is no longer liable for any negligence caused by the specialist.
 

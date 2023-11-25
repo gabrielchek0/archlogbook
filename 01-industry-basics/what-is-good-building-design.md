@@ -1,3 +1,7 @@
+---
+description: Not just a pretty building...
+---
+
 # What is Good Building Design?
 
 According to ChatGPT, the following constitutes good building design:
