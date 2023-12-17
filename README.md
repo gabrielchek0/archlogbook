@@ -4,6 +4,8 @@ description: Welcome... to the best open source wiki for archi practice!
 
 # ARCHLOGBOOK
 
+<figure><img src=".gitbook/assets/Wiki archlogbook.png" alt=""><figcaption></figcaption></figure>
+
 ## About this Wiki
 
 This online wiki is suited for young and future built environment professionals to be aware of the gap between academia and practice and to take steps towards becoming competent and confident in their work.

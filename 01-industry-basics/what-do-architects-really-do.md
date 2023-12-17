@@ -1,4 +1,14 @@
+---
+description: Key Responsibilities and Job scope of an Architect, explained.
+---
+
 # What do Architects really do?
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Architect jobscope.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 An architect is often misunderstood as to someone who just designs a building. He is a professional who is responsible for the project progress and ensures that the clients needs are addressed while ensuring all contractual, legal and statutory obligations are adhered to.
 
@@ -62,7 +72,7 @@ We work to get approval from the various building authorities and ultimately tow
 
 There are many building authorities to get approvals from, ranging from urban planning, building control, sanitary/sewerage/drainage, fire safety, environment and many more..
 
-**Learn more in Chapter 6:**⠀
+\*\*Learn more in Chapter 6:\*\*⠀
 
 [06-building-code-compliance](../06-building-code-compliance/ "mention")
 
