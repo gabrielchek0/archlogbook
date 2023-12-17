@@ -23,4 +23,3 @@ Learn more about the project:
 [History of Tate Modern | Tate](https://www.tate.org.uk/about-us/history-tate/history-tate-modern)
 
 In both of these case studies, the addition and alterations to the existing structures were pivotal in reimagining the spaces and achieving the desired functionality while respecting their historical significance. These projects showcase the potential for architectural interventions to breathe new life into existing buildings and transform them into iconic landmarks.
-

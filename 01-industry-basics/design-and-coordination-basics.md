@@ -6,7 +6,7 @@ Often times, you will need to work with the project engineers across disciplines
 
 Below is an overview of the many design considerations that require both architects and engineers to work out together:
 
-### Architecture & Structure
+## Architecture & Structure
 
 Checking for consistency with design of structural elements and external works in relation to architectural design requirements
 
@@ -17,7 +17,7 @@ Aspects:
 * Openings - for doors, windows
 * External works - driveways, drainage, detention tank, entrance culvert, slopes, retaining walls, levels.
 
-### Architecture & Mechanical
+## Architecture & Mechanical
 
 Checking for consistency with design of fire safety provision, sanitary/sewerage, gas/water as well as ventilation provision in relation to architectural design requirements.
 
@@ -29,7 +29,7 @@ Aspects:
 * Fire protection - Sprinkler provision, smoke purging/extraction, hosereel, hydrant, fire pumps
 * Gas - pipe layout, incoming location
 
-### Architecture & Electrical
+## Architecture & Electrical
 
 Checking for consistency with design of equipment location, lighting provision and lighting protection among other building services in relation to architectural design requirements.
 
