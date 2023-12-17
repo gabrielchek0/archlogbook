@@ -4,7 +4,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 
 {% tabs %}
 {% tab title="BCA" %}
-### BCA
+#### BCA
 
 [**Circulars**](https://www1.bca.gov.sg/about-us/news-and-publications/circulars)
 
@@ -85,7 +85,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="URA" %}
-### URA
+#### URA
 
 *   **DC Handbook**
 
@@ -114,7 +114,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="SCDF" %}
-### SCDF
+#### SCDF
 
 [**Fire Code 2023 (Web)**](https://www.scdf.gov.sg/firecode2023)
 
@@ -153,7 +153,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="NEA" %}
-### NEA
+#### NEA
 
 *   **Environmental Health**
 
@@ -177,7 +177,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="PUB" %}
-### PUB
+#### PUB
 
 *   **Surface Water Drainage**
 
@@ -199,7 +199,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 
 {% tabs %}
 {% tab title="LTA" %}
-### LTA
+#### LTA
 
 *   **Street Works (Road & Transport)**
 
@@ -233,7 +233,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="NPARKS" %}
-### NPARKS
+#### NPARKS
 
 [**Guidelines for Greenery Provision**](https://www.nparks.gov.sg/-/media/nparks-real-content/partner-us/nparks-handbook-version-4.ashx)
 
@@ -243,7 +243,7 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="WSH" %}
-### WSH
+#### WSH
 
 [**Code of Practice for Working Safely at Heights**](https://www.tal.sg/wshc/-/media/tal/wshc/resources/publications/codes-of-practice/files/wsh-code-of-practice-2013\_ebook.ashx)
 
@@ -253,25 +253,25 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% endtab %}
 
 {% tab title="Others" %}
-### SPPG
+#### SPPG
 
 [**Electrical Substation**](https://www.spgroup.com.sg/wcm/connect/spgrp/a6da2da5-ff92-4e9d-9a0a-d3de57e1c3b5/Guide+How+to+Apply+for+Electricity+Connection\_Oct+2022.pdf)
 
 ***
 
-### CityGas
+#### CityGas
 
 [**Handbook on Gas Supply**](https://www.cityenergy.com.sg/wp-content/uploads/2021/11/City-Energy-Handbook-on-Gas-Supply-Dec-2021.pdf)
 
 ***
 
-### Singpost
+#### Singpost
 
 [**Letterbox Specifications & Guidelines**](https://www.singpost.com/sites/default/files/2022-03/General%20Guidelines%20on%20Letterboxes%20\(Revised%20%26%20Approved%20by%20IDA%20on%202%20Oct%2020....pdf)
 
 ***
 
-### IMDA (TFCC)
+#### IMDA (TFCC)
 
 Code of Practice for Info Communication Facilities (COPIF)
 
