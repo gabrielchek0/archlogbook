@@ -1,3 +1,0 @@
-# Shopping Malls
-
-Coming Soon!

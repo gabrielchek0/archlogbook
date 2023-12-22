@@ -1,3 +1,0 @@
-# Electrical Substation
-
-Coming Soon!

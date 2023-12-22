@@ -1,3 +1,0 @@
-# Mixed Development
-
-Coming Soon!

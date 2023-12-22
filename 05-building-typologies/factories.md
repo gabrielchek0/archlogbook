@@ -1,3 +1,0 @@
-# Factories
-
-Coming Soon!

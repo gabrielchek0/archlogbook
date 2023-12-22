@@ -1,3 +1,0 @@
-# Military Buildings
-
-Coming Soon!

@@ -1,3 +1,0 @@
-# Healthcare
-
-Coming Soon!

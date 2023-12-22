@@ -1,3 +1,0 @@
-# Bin Centre
-
-Coming Soon!
