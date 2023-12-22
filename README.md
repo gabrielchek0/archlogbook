@@ -56,7 +56,7 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Start Here
 
-<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td></td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td></td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td></td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr></tbody></table>
 
 ***
 
@@ -88,14 +88,36 @@ Accelerate your work and learning with these resources:
 
 ### Disclaimer
 
-1. All of the information I share here is meant for educational purpose only.
-2. This is based on my own experience working in Singapore and on projects that I was involved in.
-3. Do consult your senior on statutory requirements in your country and also best practices. Do not base the information here as gospel truth.
-4. Some of the content was written with ChatGPT. I have read through and made sure of accuracy as far as possible. That being said, there may be some factual errors. If there are, do contact me at the link below.
-5. All content in the wiki shall not be copyrighted as it is open source. All credits have been given. If I have missed out a credit to you, please do not hesitate to contact me.
+<details>
+
+<summary>All of the information I share here is meant for educational purpose only.</summary>
+
+This is based on my own experience working in Singapore and on projects that I was involved in.
+
+</details>
+
+<details>
+
+<summary>Do not base the information here as gospel truth.</summary>
+
+Do consult your senior on statutory requirements in your country and also best practices.&#x20;
+
+</details>
+
+<details>
+
+<summary>Content posted here are open-source and AI-generated.</summary>
+
+Some of the content was written with ChatGPT. I have read through and made sure of accuracy as far as possible. That being said, there may be some factual errors. If there are, do contact me at the link below.
+
+All content in the wiki shall not be copyrighted as it is open source. All credits have been given. If I have missed out a credit to you, please do not hesitate to contact me.
+
+</details>
 
 ***
 
 ## About ARCHLOGBOOK
 
-ARCHLOGBOOK was started by [Gabriel Chek](https://gabrielchek.com), an architect based in Singapore who is working towards increasing clarity and confidence in young and future Architects. Check out his platform at [gabrielchek.com](https://gabrielchek.com).
+ARCHLOGBOOK was started by [Gabriel Chek](https://gabrielchek.com), an architect based in Singapore who is working towards increasing clarity and confidence in young and future Architects.&#x20;
+
+Check out his platform at [gabrielchek.com](https://gabrielchek.com).

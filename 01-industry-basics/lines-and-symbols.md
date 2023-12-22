@@ -4,7 +4,7 @@ description: Annotate your drawings properly with the right line types and symbo
 
 # Lines & Symbols
 
-Architectural drawings use various line types and symbols to convey information accurately.&#x20;
+Architectural drawings use various line types and symbols to convey information accurately.
 
 Here are common line types and symbols for architectural plans, sections, and elevations:
 
@@ -23,8 +23,8 @@ Here are common line types and symbols for architectural plans, sections, and el
 3. **Windows:**
    * Symbolic representation with panel orientation within wall indicated
    * Window tags to label the window type (to tally with door schedules)
-   * Arrows indicating window orientation and operation (if applicable, eg. sliding windows)&#x20;
-4. **Stairs**&#x20;
+   * Arrows indicating window orientation and operation (if applicable, eg. sliding windows)
+4. **Stairs**
    * Symbolic representation for stairs and landings, with arrows indicating the direction from bottom to top of stairs
    * Lines within staircase boundary lines showing location of step edges
    * Annotations for dimensions and details (riser height, tread depth, number of risers)
@@ -32,7 +32,7 @@ Here are common line types and symbols for architectural plans, sections, and el
    * Symbols for furniture, fixtures, and equipment (FF\&E)
 6. **Rooms:**
    * Outlined areas with tags for room names and dimensions
-   * Room tags may also show key  information such as area, finishes for floor, wall, structural or finished floor levels and ceiling and mode of ventilation.
+   * Room tags may also show key information such as area, finishes for floor, wall, structural or finished floor levels and ceiling and mode of ventilation.
 7. **Dimensions:**
    * Dimension lines with arrows indicating the measurement direction (usually in mm)
    * Text annotations for dimension values
@@ -48,7 +48,7 @@ Here are common line types and symbols for architectural plans, sections, and el
     1. Symbol with line with arrow tail indicating location and orientation of section cut/elevation on plan.
     2. Text label within the symbol indicating drawing number and section/elevation number to tally with section/elevation drawing.
 
-#### Architectural Sections:
+### Architectural Sections:
 
 1. **Section Lines:**
    * Solid thick lines with hatched area to indicate the cut section of wall / floor / ceiling
@@ -56,7 +56,7 @@ Here are common line types and symbols for architectural plans, sections, and el
    * Hatching or shading to represent different materials
    * Annotations specifying material types
 
-#### Architectural Elevations:
+### Architectural Elevations:
 
 1. **Outline of Building:**
    * Solid lines to outline the building

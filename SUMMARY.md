@@ -74,7 +74,6 @@
   * [Limitation Act](03-project-management-and-contract-administration/limitation-act.md)
   * [Fit-for-purpose](03-project-management-and-contract-administration/fit-for-purpose.md)
   * [Defects (Latent vs Patent)](03-project-management-and-contract-administration/defects-latent-vs-patent.md)
-* [Next Steps](next-steps.md)
 * [Resources](resources/README.md)
   * [Calculators](resources/calculators.md)
   * [Singapore Building Codes & Guides](resources/singapore-building-codes-and-guides.md)
@@ -83,3 +82,4 @@
   * [Architecture Siol! Podcast](http://gabrielchek.com/podcast)
   * [Content Feedback & Contributions](links/content-feedback-contribution.md)
   * [Contact](links/contact.md)
+* [Support ARCHLOGBOOK](next-steps.md)

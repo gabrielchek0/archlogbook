@@ -51,7 +51,7 @@ Architects are responsible for finding solutions to technical problems that may 
 
 ## **An Architect’s Job scope**⠀⠀
 
-### **Design & Coordination**
+### **1) Design & Coordination**
 
 This involves conceptualizing, developing and detailing of the building design & site layout, as well as coming up with specifications of materials based on the site context and project/client brief and budget.
 
@@ -65,17 +65,17 @@ We also need to work with civil/structural/mechanical/electrical engineers to en
 
 ###
 
-### **Contract Administration & Project Management**
+### **2) Contract Administration & Project Management**
 
 Architects are in charge of running of the project including handling of variations (design changes deviating from contract provision in tender), answering contractor queries through RFIs (request for information) and meeting deadlines and milestones for the project.⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-**Learn more in Chapter 4:**
+**Learn more in Chapter 3:**
 
 [03-project-management-and-contract-administration](../03-project-management-and-contract-administration/ "mention")
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-### **Code Compliance**
+### **3) Code Compliance**
 
 Statutory requirements are in place to ensure occupant safety in our buildings.
 
@@ -83,11 +83,11 @@ We work to get approval from the various building authorities and ultimately tow
 
 There are many building authorities to get approvals from, ranging from urban planning, building control, sanitary/sewerage/drainage, fire safety, environment and many more..
 
-\*\*Learn more in Chapter 6:\*\*⠀
+Check out the compilation of code of practices for Singapore:
 
-[06-building-code-compliance](../06-building-code-compliance/ "mention")
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
+{% content-ref url="../resources/singapore-building-codes-and-guides.md" %}
+[singapore-building-codes-and-guides.md](../resources/singapore-building-codes-and-guides.md)
+{% endcontent-ref %}
 
 ### **Quality Control**
 

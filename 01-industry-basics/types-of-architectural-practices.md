@@ -25,9 +25,3 @@ There are various kinds of architecture practices, which can be broadly categori
 * **Technology:** These practices specialize in designing buildings that incorporate the latest technology, such as smart buildings, and use of digital tools in design and construction.
 
 It's worth noting that many architecture practices will have a combination of these characteristics, and the specific focus of a practice can evolve over time.
-
-
-
-Discover more about Building Typologies in Chapter 5:
-
-[05-building-typologies](../05-building-typologies/ "mention")

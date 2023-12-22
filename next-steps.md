@@ -1,12 +1,12 @@
-# Next Steps
+# Support ARCHLOGBOOK
 
-You made it through to the end of the wiki! Congrats.
+Love to contribute to ARCHLOGBOOK?
 
-There is so much to learn about architecture practice
+Feel free to drop an email to Gabriel at hello@gabrielchek.com.
 
-I suggest to take a break and consolidate your learnings!
+Sponsorship / donations are welcome as well.
 
-Remember, architecture is a lifelong journey. Fulfilling but tiring. So it is wise to rest and recharge!
+Donations available at [https://www.paypal.com/paypalme/archlogbook](https://www.paypal.com/paypalme/archlogbook)
 
 ### Share this wiki
 
@@ -14,8 +14,4 @@ PS: If you know of someone who may benefit from reading this wiki, share this wi
 
 {% content-ref url="links/content-feedback-contribution.md" %}
 [content-feedback-contribution.md](links/content-feedback-contribution.md)
-{% endcontent-ref %}
-
-{% content-ref url="resources/" %}
-[resources](resources/)
 {% endcontent-ref %}

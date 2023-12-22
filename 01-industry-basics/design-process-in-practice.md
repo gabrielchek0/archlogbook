@@ -1,3 +1,7 @@
+---
+description: Learn more about the design process in architecture practice
+---
+
 # Design Process in Practice
 
 The design process for architects typically includes the following steps:

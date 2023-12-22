@@ -1,10 +1,14 @@
+---
+description: Learn more about the various building construction technologies here.
+---
+
 # Building Construction Technologies
 
-We live in an interesting era of building design and construction technologies. Learn more here!
+We live in an interesting era of building design and construction technologies.&#x20;
 
-### IDD (Integrated Digital Delivery)
+Below are the various technologies available for Architects to employ in their building projects to accelerate and improve project delivery and construction.
 
-According to the Building and Construction Authority Singapore, the use of IDD (Integrated Digital Delivery) is increasingly implemented to better accelerate the work we do as architects and builders in our built environment.
+### 1) IDD (Integrated Digital Delivery)
 
 Integrated Digital Delivery (IDD) is the use of digital technologies to integrate work processes and connect stakeholders working on the same project throughout the construction and building life-cycle. This includes design, fabrication and assembly on-site, as well as the operations and maintenance of buildings.
 
@@ -14,27 +18,47 @@ Integrated Digital Delivery (IDD) is the use of digital technologies to integrat
 
 [Integrated Digital Delivery (IDD)](https://www1.bca.gov.sg/buildsg/digitalisation/integrated-digital-delivery-idd)
 
+### 2) Building Information Modelling (BIM)
 
+BIM is a digital representation of a building or infrastructure project that encompasses both graphical and non-graphical information. BIM software allows architects to create intelligent 3D models that contain detailed information about the building's components, materials, systems, and performance attributes.&#x20;
 
-### Building Information Modelling (BIM)
+BIM facilitates collaboration among different project stakeholders and improves the accuracy and efficiency of the design and construction process.&#x20;
 
-BIM is a digital representation of a building or infrastructure project that encompasses both graphical and non-graphical information. BIM software allows architects to create intelligent 3D models that contain detailed information about the building's components, materials, systems, and performance attributes. BIM facilitates collaboration among different project stakeholders and improves the accuracy and efficiency of the design and construction process. When creating construction drawings and specifications using BIM, architects can extract relevant information from the model to generate detailed drawings, schedules, quantities, and specifications.
+When creating construction drawings and specifications using BIM, architects can extract relevant information from the model to generate detailed drawings, schedules, quantities, and specifications.
 
-[Software & Tools for Architects](https://www.notion.so/Software-Tools-for-Architects-6fa3aa6478944c9080937e1423cfd178?pvs=21)
+{% content-ref url="software-and-tools-for-architects.md" %}
+[software-and-tools-for-architects.md](software-and-tools-for-architects.md)
+{% endcontent-ref %}
 
-### Precast Systems
+### 3) Precast Systems
 
-Precast systems refer to a construction method where building components, such as walls, columns, beams, and slabs, are manufactured off-site in a controlled factory environment. These precast elements are then transported to the construction site and assembled to form a complete structure. Precast systems offer numerous advantages, including improved construction speed, enhanced quality control, reduced labor requirements, and increased durability. The use of precast systems allows for efficient and precise manufacturing of building components, resulting in faster project completion, minimized on-site disruptions, and the potential for cost savings.
+Precast systems refer to a construction method where building components, such as walls, columns, beams, and slabs, are manufactured off-site in a controlled factory environment.&#x20;
 
-### Prefabricated Bathroom Unit (PBU)
+These precast elements are then transported to the construction site and assembled to form a complete structure.&#x20;
 
-Prefabricated bathrooms units or PBU are complete bathroom units that are manufactured off-site and then transported to the construction site for installation. These pre-assembled modules typically include fixtures, fittings, plumbing, electrical systems, and finishes. Prefabricated bathrooms offer several benefits in the construction industry, including reduced construction time, improved quality control, enhanced cost efficiency, and minimized on-site labor requirements. By being manufactured in a controlled factory environment, prefabricated bathrooms can achieve higher precision and consistency in terms of design and construction quality. The off-site construction also allows for concurrent work, where site preparation and foundation work can progress simultaneously with the production of bathroom pods, leading to time savings. Once delivered to the site, prefabricated bathrooms are quickly installed, reducing on-site construction time, and improving project efficiency.
+Precast systems offer numerous advantages, including improved construction speed, enhanced quality control, reduced labor requirements, and increased durability.&#x20;
+
+The use of precast systems allows for efficient and precise manufacturing of building components, resulting in faster project completion, minimized on-site disruptions, and the potential for cost savings.
+
+### 4) Prefabricated Bathroom Unit (PBU)
+
+Prefabricated bathrooms units or PBU are complete bathroom units that are manufactured off-site and then transported to the construction site for installation.&#x20;
+
+These pre-assembled modules typically include fixtures, fittings, plumbing, electrical systems, and finishes.&#x20;
+
+Prefabricated bathrooms offer several benefits in the construction industry, including reduced construction time, improved quality control, enhanced cost efficiency, and minimized on-site labor requirements.&#x20;
+
+By being manufactured in a controlled factory environment, prefabricated bathrooms can achieve higher precision and consistency in terms of design and construction quality.&#x20;
+
+The off-site construction also allows for concurrent work, where site preparation and foundation work can progress simultaneously with the production of bathroom pods, leading to time savings.&#x20;
+
+Once delivered to the site, prefabricated bathrooms are quickly installed, reducing on-site construction time, and improving project efficiency.
 
 Learn more about PBU:
 
 [Prefabricated Bathroom Unit](https://www1.bca.gov.sg/buildsg/productivity/design-for-manufacturing-and-assembly-dfma/prefabricated-bathroom-unit)
 
-### Prefabricated Prefinished Volumetric Consruction (PPVC)
+### 5) Prefabricated Prefinished Volumetric Consruction (PPVC)
 
 ![](<../.gitbook/assets/image (1).png>)
 
@@ -48,7 +72,7 @@ Prefabricated Prefinished Volumetric Construction (PPVC) is a construction metho
 
 [PPVC Construction : Why It Matters For Investors (The Good, Bad, And Ugly)](https://stackedhomes.com/editorial/ppvc-construction-why-it-matters-for-investors-the-good-bad-and-ugly/#gs.2mf88g)
 
-### Mass Engineered Timber (MET)
+### 6) Mass Engineered Timber (MET)
 
 ![](<../.gitbook/assets/image (2).png>)
 

@@ -26,8 +26,10 @@ Gridlines are aligned to the center of internal walls and outer face of external
 
 For internal walls, the alignment to the center lines of walls allow for a change in thickness of walls as advised by structural engineers without affecting the gridlines.
 
+{% hint style="danger" %}
 ### Do not move grid lines
 
 Dimensions between gridlines should be fixed to prevent any confusion. If neccessary, architects should inform all parties before doing so.
 
 Should there be any changes to the position of gridlines with respect to the four corners of the building (marked by survey coordinates), architects must update all parties.
+{% endhint %}

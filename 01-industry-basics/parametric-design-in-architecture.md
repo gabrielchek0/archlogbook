@@ -8,8 +8,6 @@ Parametric design has become more prevalent and important in the design and cons
 
 If you are an architectural designer starting out in the industry and want to learn more about the role of parametric design plays in architecture practice, read on.
 
-
-
 ### What is Parametric Design?
 
 Parametric Design is a design process that utilises programming and geometric data inputs and operations to determine design outputs.
@@ -18,9 +16,7 @@ To understand parametric design, you need to know the following: data and parame
 
 The best way to understand programming is to visualise what you would do to bake a cake. We have inputs, ingredients that you need to process step-by-step. After certain conditions are met, be it after an x amount of time or reaching a certain temperature, you get a cake, your output.
 
-![Inputs and outputs (icon courtesy of Freepik)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2265743c-4a1f-4d41-b5b0-c6c3d6029aa6/Untitled.png)
-
-Inputs and outputs (icon courtesy of Freepik)
+***
 
 ### Why Parametric Design Is Becoming More Relevant?
 
@@ -44,6 +40,8 @@ When design is parametric, the solution can be analysed and ranked. We will also
 
 There will be a clear design methodology towards an agreed solution selection.
 
+***
+
 ### What Kinds Of Parametric Design Are There?
 
 #### Site Plan Scale
@@ -64,7 +62,7 @@ When the system no longer reports better solutions, the simulation can be stoppe
 
 **An example of such system is** [**spacemaker.ai**](http://spacemaker.ai/)
 
-[https://youtu.be/F6wQKiU-KZs](https://youtu.be/F6wQKiU-KZs)
+{% embed url="https://youtu.be/F6wQKiU-KZs" %}
 
 #### Building Layout
 
@@ -82,15 +80,9 @@ They include views to outside, adjacency, daylight, distraction etc.
 
 [Hands-on with Project Rediscover: Generatively Designing the Autodesk Toronto Office](https://medium.com/autodesk-university/hands-on-with-project-rediscover-generatively-designing-the-autodesk-toronto-office-4c10d78a96d3)
 
-![Overview of the various design parameters for the building layout generative design approach.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3473ff99-d595-4bfd-98f5-b5bc45aeee67/Untitled.png)
-
-Overview of the various design parameters for the building layout generative design approach.
-
-[https://youtu.be/ZQmfgGKtlXQ](https://youtu.be/ZQmfgGKtlXQ)
+{% embed url="https://youtu.be/ZQmfgGKtlXQ" %}
 
 #### **Facade Design**
-
-![Siemens Middle East Headquarters by Sheppard Robson Architects, Abu Dhabi, United Arab Emirates](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/187edf2d-f50f-40dc-b52f-3ebaddbf77da/Untitled.png)
 
 **Siemens Middle East Headquarters** by Sheppard Robson Architects, Abu Dhabi, United Arab Emirates
 
@@ -103,6 +95,8 @@ Each aluminium panel is calculated and aligned to optimise the shading and view 
 **Read Artitizer's article on this project for more details:**
 
 [Super Skin: 7 Parametrically Designed Metal Façades - Architizer Journal](https://architizer.com/blog/inspiration/collections/parametrically-designed-metal-facades/)
+
+***
 
 ### How To Get Started In Parametric Design?
 
@@ -124,15 +118,7 @@ In these videos, I share about the fundamentals to get started including:
 * Constructing Geometry
 * Geometric Operations
 
-[Overview of Parametric Design - Video Tutorial](https://youtu.be/uZmWYcoGtQc)
-
-Overview of Parametric Design - Video Tutorial
-
-[Grasshopper Basics - Video Tutorial](https://youtu.be/0555Uf1qTL0)
-
-Grasshopper Basics - Video Tutorial
-
-Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCLatn5seG5EyWc44rFjLVPw) for videos of parametric design.
+{% embed url="https://youtu.be/uZmWYcoGtQc?si=Ti_6DL5Ol7apoOSA" %}
 
 #### 2) Have A Hands On Visual Programming Tools & Plugins
 
@@ -178,9 +164,9 @@ Examples of simple design projects you can work on include:
 * Facade patterns/panelisation
 * Form finding of skyscrapers, massing.
 
-[Parametric Bench using Grasshopper and Rhino - Video Tutorial](https://youtu.be/aQ0UIOf\_50E)
+{% embed url="https://youtu.be/aQ0UIOf_50E" %}
 
-Parametric Bench using Grasshopper and Rhino - Video Tutorial
+
 
 Examples of complex design problems include:
 
@@ -191,5 +177,5 @@ Examples of complex design problems include:
 
 ### Further Reading
 
-* Parametric House - Resourcses for parametric designhttps://parametrichouse.com/
-* [Grasshopper Primer](https://www.modelab.is/grasshopper-primer/)(Starter guide to the Grasshopper interface)
+* Parametric House - Resourcses for parametric design [https://parametrichouse.com/](https://parametrichouse.com/)
+* [Grasshopper Primer](https://www.modelab.is/grasshopper-primer/) (Starter guide to the Grasshopper interface)

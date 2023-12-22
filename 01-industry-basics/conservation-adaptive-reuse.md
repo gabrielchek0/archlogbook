@@ -1,10 +1,8 @@
 # Conservation / Adaptive Reuse
 
-### What is Conservation?
+## What is Conservation?
 
 Conservation refers to the practice of preserving and safeguarding historically significant buildings, structures, and cultural heritage. It involves the protection, restoration, and maintenance of these assets.
-
-Jump to:
 
 ### Here are three key aspects of conservation:
 
@@ -42,13 +40,15 @@ Conservation recognizes the cultural value of a building and its significance to
 
 **c. Education and Interpretation:** Providing educational programs and interpretive materials to raise awareness and understanding of the building's cultural significance.
 
-### What about Adaptive Reuse?
+***
+
+## What about Adaptive Reuse?
 
 Adaptive reuse involves repurposing existing buildings or structures for new functions while preserving their historic or architectural character. It promotes sustainable development and reduces the demand for new construction.
 
 Adaptive reuse aims to transform the building to accommodate new functions.
 
-**Key aspects include:**
+### **Key aspects**
 
 **a. Feasibility Analysis:** Assessing the suitability of the existing building for the proposed new use, considering factors such as layout, infrastructure, and zoning regulations.
 

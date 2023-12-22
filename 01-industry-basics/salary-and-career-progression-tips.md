@@ -18,4 +18,8 @@ However, if you have not been checking in with your boss, be prepared to have a 
 
 **If you’re in Singapore, check out the** [**Singapore Archi Pay Transparency Report**](https://lookerstudio.google.com/u/0/reporting/98cfe536-ce87-47ee-a532-60712b96c66f)**. It shows a rough gauge for salaries per years of experience based on survey input from anonymous submissions.**
 
-Remember, career progression and higher salaries require consistent effort, dedication, and a commitment to continuous learning and improvement. By combining your technical skills with business acumen and a proactive approach, you can position yourself for long-term success in the field of architecture.
+{% hint style="info" %}
+Remember, career progression and higher salaries require consistent effort, dedication, and a commitment to continuous learning and improvement.&#x20;
+
+By combining your technical skills with business acumen and a proactive approach, you can position yourself for long-term success in the field of architecture.
+{% endhint %}

@@ -1,12 +1,8 @@
 # Parametric Design in Construction
 
-_\[This post is written by the guys at_ [_cmR_](https://cmdr.online/)_, more about them at the end]_
-
-In the previous post, we have seen how Parametric Design is shifting the architectural practice, changing the way we approach the built environment; adopting more data-centric workflows and thus informing the design process.
+In the previous post, we have seen how parametric design is shifting the architectural practice, changing the way we approach the built environment; adopting more data-centric workflows and thus informing the design process.
 
 Here, we dive deeper into the actualisation of this new architecture and how with input from other industries such as manufacturing, we are able to bring the construction of the built environment into the 21st century.
-
-
 
 ### **What Is Its Role In Construction**?
 
@@ -18,11 +14,11 @@ Data-driven design approaches create nonstandard architecture, often requiring c
 
 > _design → optimisation + rationalisation → building components → fabrication/manufacturing strategy → manufacturing instructions → built product_
 
-‍
+***
 
 ### How Does This Change Construction?
 
-#### Empowering Designers
+**Empowering Designers**
 
 A more data driven design can be manufactured with ease by adopting a digital fabrication workflow i.e. file-to-factory documentation that allows the design to go from a design to a final form production. Complex geometries are broken down into manufacturable components to be manufactured in the process of Mass Customisation, giving the designer greater dexterity in the design process.
 
@@ -44,9 +40,7 @@ Digital fabrication is a workflow where digital data directly drives the manufac
 
 These methodologies are entirely possible in a 3D environment like Rhino, using parametric tools such as Grasshopper. Robust plugins have also been developed within academia and the open source [grasshopper community](https://www.food4rhino.com/en) to control industrial arms, namely, [KUKA PRC](https://www.food4rhino.com/en/app/kukaprc-parametric-robot-control-grasshopper), [TACO ABB](https://www.food4rhino.com/en/app/taco-abb), [Hal Robotics](https://www.food4rhino.com/en/app/hal-robotics-framework) etc. Using these plugins, fabrication tool paths can be directly generated from the 3D model.
 
-![Above - Using the KUKA PRC plug-in to convert geometric information to robot instruction (credit: cmdR)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30d3a719-9199-40d4-b9e5-e2e5c8875ebf/624b9cf112e01c5f2a3b6f7e\_cmdR\_kukaPRCDemo.gif)
 
-Above - Using the KUKA PRC plug-in to convert geometric information to robot instruction (credit: cmdR)
 
 ### **What Can It Do?**
 

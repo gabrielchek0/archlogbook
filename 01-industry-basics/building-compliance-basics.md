@@ -22,28 +22,40 @@ Otherwise, qualified persons can seek alternative ways to demonstrate compliance
 
 Plan approval is required by statutory law before the main contractor can construct the building. Architects submit to the building authorities through drawings and calculations, to show the compliance to the various building and planning codes.
 
-#### Preliminary
+<details>
 
-Design (Development Control)
+<summary>Preliminary Design (Development Control)</summary>
 
-Planning parameters must be complied
+Planning parameters must be complied.
 
-#### Detailed
+Key items to be established: GFA, Strata area, Plot Ratio, Site layout, Building Setback & Building Height etc
 
-Design (Building Plan)
+</details>
+
+<details>
+
+<summary>Detailed Design (Building Plan)</summary>
 
 Building layout finalised and submitted for approval before construction.
 
-#### Construction
+Key items to be established: Building layout, fire safety, service provisions etc
 
-Completion (Occupation)
+</details>
+
+<details>
+
+<summary>Construction</summary>
+
+To follow exactly approved plans. If not, to submit amendment plans to building authority before proceed with the changes. Architects must regularise deviations from approved plans to avoid abortive works.
+
+</details>
+
+<details>
+
+<summary>Completion (Occupation)</summary>
 
 Building constructed to approved drawings, on-site inspection and verification.
 
-
-
-Learn more about statutory requirements in Chapter 6:
-
-[06-building-code-compliance](../06-building-code-compliance/ "mention")
+</details>
 
 ***
