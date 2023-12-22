@@ -1,7 +1,5 @@
 # Building Authorities
 
-Chapter: 06 - Building Code Compliance (../../06%20-%20Building%20Code%20Compliance%20c1a9aeee97cb4a6faca6195f2a5d8de1.md) Last edited time: June 24, 2023 4:26 PM
-
 The following is an overview of the various building authorities who ensure the overall safety and alignment of building designs in the urban context.
 
 ### Urban Planning
@@ -56,10 +54,9 @@ List is non-exhaustive, some items will be covered in subsequent chapters.
 
 Other building authorities include - postal office, telephone/internet service, defence ministry, height control etc.
 
-**For Singapore Building Codes, do check out:**
+**For a summary of Singapore Building Codes, do check out:**
 
-Singapore Building Codes & Guides
+{% content-ref url="../resources/singapore-building-codes-and-guides.md" %}
+[singapore-building-codes-and-guides.md](../resources/singapore-building-codes-and-guides.md)
+{% endcontent-ref %}
 
-**Next:**
-
-Planning Parameters

@@ -1,5 +1,16 @@
 ---
 description: Key Responsibilities and Job scope of an Architect, explained.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # What do Architects really do?
@@ -60,7 +71,7 @@ Architects are in charge of running of the project including handling of variati
 
 **Learn more in Chapter 4:**
 
-[04-project-management-and-contract-administration](../04-project-management-and-contract-administration/ "mention")
+[03-project-management-and-contract-administration](../03-project-management-and-contract-administration/ "mention")
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 

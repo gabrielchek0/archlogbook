@@ -1,10 +1,10 @@
 ---
 description: Welcome... to the best open source wiki for archi practice!
+cover: .gitbook/assets/Wiki archlogbook.png
+coverY: 0
 ---
 
 # ARCHLOGBOOK
-
-<figure><img src=".gitbook/assets/Wiki archlogbook.png" alt=""><figcaption></figcaption></figure>
 
 ## About this Wiki
 
@@ -56,7 +56,21 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Start Here
 
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td></td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td></td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>3</td><td>Building Components, Materials &#x26; Specifications</td><td></td><td><a href="03-building-components-materials-and-specifications/">03-building-components-materials-and-specifications</a></td><td><a href=".gitbook/assets/04 Plan Annotations.jpg">04 Plan Annotations.jpg</a></td></tr><tr><td>4</td><td>Project Management &#x26; Contract Administration</td><td></td><td><a href="04-project-management-and-contract-administration/">04-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>5</td><td>Building Typologies</td><td></td><td><a href="05-building-typologies/">05-building-typologies</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>6</td><td>Building Code Compliance</td><td></td><td><a href="06-building-code-compliance/">06-building-code-compliance</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>7</td><td>Building Services</td><td></td><td><a href="07-building-services/">07-building-services</a></td><td><a href=".gitbook/assets/04 Plan Annotations.jpg">04 Plan Annotations.jpg</a></td></tr><tr><td>8</td><td>Resources</td><td></td><td><a href="links/content-feedback-contribution.md">content-feedback-contribution.md</a></td><td><a href=".gitbook/assets/04 Plan Annotations.jpg">04 Plan Annotations.jpg</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td></td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td></td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td></td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr></tbody></table>
+
+***
+
+## Coming Soon
+
+* Building Components (Materials & Specifications)
+* Building Typologies
+* Building Code Compliance
+* Building Services
+*   Architecture Communities & Resources (Singapore)
+
+    Building Material Suppliers
+
+If you would like to contribute to the expanding ARCHLOGBOOK wiki, do contact Gabriel at hello@gabrielchek.com.
 
 ***
 
@@ -69,8 +83,6 @@ Accelerate your work and learning with these resources:
 [Contract Types (Singapore)](resources/contract-types-singapore.md)
 
 [Singapore Building Codes & Guides](resources/singapore-building-codes-and-guides.md)
-
-Architecture Communities & Resources (Singapore) - coming soon!
 
 ***
 
