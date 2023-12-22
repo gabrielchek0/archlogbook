@@ -138,7 +138,7 @@
   * [Transit](05-building-typologies/transit.md)
 * [06 - Building Code Compliance](06-building-code-compliance/README.md)
   * [Building Authorities](06-building-code-compliance/building-authorities.md)
-  * [Area Computation](06-building-code-compliance/area-computation-gfa-site-area-plot-ratio-sgfa-afa-strata-area.md)
+  * [Area Computation](06-building-code-compliance/area-computation.md)
   * [Building Coverage](06-building-code-compliance/building-coverage.md)
   * [Buffers, Setbacks](06-building-code-compliance/buffers-setbacks.md)
   * [Reserve Lines](06-building-code-compliance/reserve-lines.md)
