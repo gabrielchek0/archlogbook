@@ -6,6 +6,8 @@ description: >-
 
 # 01 - Industry Basics
 
+<figure><img src="../.gitbook/assets/ALB Chapter 1-Industry Basics.png" alt=""><figcaption></figcaption></figure>
+
 Topics covered in this chapter include:
 
 {% content-ref url="what-do-architects-really-do.md" %}

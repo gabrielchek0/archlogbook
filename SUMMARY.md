@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ARCHLOGBOOK](README.md)
+* [Start Here](README.md)
 * [01 - Industry Basics](01-industry-basics/README.md)
   * [What do Architects really do?](01-industry-basics/what-do-architects-really-do.md)
   * [Fresh Grad to Architect](01-industry-basics/fresh-grad-to-architect.md)
@@ -34,7 +34,7 @@
   * [Communication & Negotiation](01-industry-basics/communication-and-negotiation.md)
   * [Salary & Career Progression Tips](01-industry-basics/salary-and-career-progression-tips.md)
   * [Getting Licensed](01-industry-basics/getting-licensed.md)
-* [02 - Urban/Site Planning, Building Design Concepts](02-urban-site-planning-building-design-concepts/README.md)
+* [02 - Site Planning & Building Design Concepts](02-urban-site-planning-building-design-concepts/README.md)
   * [Feasibility Studies](02-urban-site-planning-building-design-concepts/feasibility-studies.md)
   * [Site Planning & Analysis](02-urban-site-planning-building-design-concepts/site-planning-and-analysis.md)
   * [Concept Design](02-urban-site-planning-building-design-concepts/concept-design.md)

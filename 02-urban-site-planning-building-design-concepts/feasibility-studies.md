@@ -1,43 +1,23 @@
+---
+description: What is a feasibility study and how to perform one.
+---
+
 # Feasibility Studies
 
-Chapter: 02 - Urban/Site Planning, Building Design Concepts (../../02%20-%20Urban%20Site%20Planning,%20Building%20Design%20Concepts%20ef46b469e71b4e2c82342c57361c276e.md) Last edited time: July 23, 2023 5:45 PM
+An architectural feasibility study is a method used by architects to assess the viability of a project before moving forward with its design and construction.&#x20;
 
-## What does an Architect do for feasibility studies?
+Here are some steps an architect might undertake during a feasibility study:
 
-An architectural feasibility study is a process that architects use to determine whether a project is feasible before proceeding with the design and construction phases.
+1. **Research on zoning codes:** The architect initially investigates if the client's desired use and/or improvement is permissible on the intended site.
+2. **Assessment of site feasibility, opportunities, and limitations:** The architect conducts a preliminary review of the potential and challenges of the site being considered for purchase, as well as the neighboring properties.
+3. **Development of a project program:** The architect creates a program detailing the client's needs and specifications for the project.
+4. **Consulting with an in-house real estate broker:** The architect may seek advice from an in-house real estate broker to evaluate the market potential for the proposed project.
+5. **Cost analysis:** The architect carries out a cost analysis to ascertain the financial viability of the project.
 
-**Here are some of the steps that an architect may take when performing a feasibility study:**
+### What is the difference between a feasibility study and site analysis?
 
-* Zoning code research: This is where the architect asks preliminary questions such as whether the client's desired use and/or improvement is allowed on the proposed site.
-* Site feasibility, opportunities, and constraints: The architect conducts a cursory review for site opportunities and constraints on the purchase site and surrounding properties.
-* Program development: The architect develops a program that outlines the client's needs and requirements for the project.
-* In-house real estate broker: The architect may consult with an in-house real estate broker to determine whether there is a market for the proposed project.
-* Cost analysis: The architect performs a cost analysis to determine whether the project is financially feasible.
+As for the distinction between a feasibility study and site analysis, a site analysis is the examination of a site's physical and environmental attributes, while a feasibility study evaluates the economic and technical practicality of a project.&#x20;
 
-## What's the difference between a feasibility study and site analysis?
+In essence, a site analysis focuses on a site's physical aspects like topography, soil conditions, and vegetation.&#x20;
 
-A site analysis is an evaluation of the physical and environmental characteristics of a site, while a feasibility study is an analysis of the economic and technical viability of a project.
-
-In other words, a site analysis looks at the physical characteristics of a site, such as its topography, soil conditions, and vegetation, while a feasibility study looks at whether a project is financially and technically feasible.
-
-Source:
-
-(1) How We Operate. https://moss-design.com/architectural-feasibility-study-service/.
-
-(2) Architecture Feasibility Study: What is it and how can it benefit your .... https://www.archisoup.com/architecture-feasibility-study.
-
-(3) What is an architectural feasibility study? | Designblendz. https://www.designblendz.com/services/feasibility-study.
-
-(4) What is an Architectural Feasibility Study? - tatestevenson. https://www.tatestevenson.com/post/2018/01/22/what-is-an-architectural-feasibility-study.
-
-(5) Architectural Feasibility Study | Pionarch LLC. https://pionarch.com/architectural-feasibility-study/.
-
-(6) What You Need to Know About Site Analysis and Feasibility. https://www.patriquinarchitects.com/what-you-need-to-know-about-site-analysis-and-feasibility/.
-
-(7) All About Architectural Site Analysis & Feasibility Study - Snaptrude. https://www.snaptrude.com/blog/all-about-architectural-site-analysis-feasibility-study.
-
-(8) Using Feasibility Studies in Project Management \[2022] • Asana. https://asana.com/resources/feasibility-study.
-
-Next:
-
-Site Planning & Analysis
+In contrast, a feasibility study determines the financial and technical feasibility of a project.
