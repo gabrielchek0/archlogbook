@@ -1,2 +1,0 @@
-# CCS / Cooling Towers
-

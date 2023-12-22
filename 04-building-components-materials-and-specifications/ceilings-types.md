@@ -1,2 +1,0 @@
-# Ceilings Types
-

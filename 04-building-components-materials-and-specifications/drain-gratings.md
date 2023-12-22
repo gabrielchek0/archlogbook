@@ -1,2 +1,0 @@
-# Drain gratings
-

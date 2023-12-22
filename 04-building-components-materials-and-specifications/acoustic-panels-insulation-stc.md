@@ -1,2 +1,0 @@
-# Acoustic panels insulation STC
-

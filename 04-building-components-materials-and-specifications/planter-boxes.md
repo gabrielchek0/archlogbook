@@ -1,2 +1,0 @@
-# Planter boxes
-

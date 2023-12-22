@@ -1,2 +1,0 @@
-# Aluminium perforated panel
-
