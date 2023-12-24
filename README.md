@@ -1,14 +1,14 @@
 ---
-description: Welcome... to the best open source wiki for archi practice!
+description: Welcome to ARCHLOGBOOK, the best open source wiki for archi practice!
 cover: .gitbook/assets/Wiki archlogbook.png
 coverY: 0
 ---
 
-# ARCHLOGBOOK
+# Start Here
 
-## About this Wiki
+## About ARCHLOGBOOK
 
-This online wiki is suited for young and future built environment professionals to be aware of the gap between academia and practice and to take steps towards becoming competent and confident in their work.
+ARCHLOGBOOK is an online wiki suited for young and future architects as well as built environment professionals to be aware of the gap between academia and practice and to take steps towards becoming competent and confident in their work.
 
 {% hint style="info" %}
 **Disclaimer:** All information shared is based on personal experiences and universal concepts which may not be applicable to your country. Do consult your senior architects when in doubt.
@@ -56,7 +56,7 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Start Here
 
-<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/05 - Hatch Types.jpg">05 - Hatch Types.jpg</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/03 Floor Levels (1).jpg">03 Floor Levels (1).jpg</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/ALB Chapter 3 -Project Management.png">ALB Chapter 3 -Project Management.png</a></td></tr></tbody></table>
 
 ***
 
