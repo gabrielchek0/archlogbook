@@ -25,9 +25,9 @@ Floor levels are to be indicated on all floor plans & sections for a few reasons
 
 ## Types of Levels
 
-Structural Slab Level - Underside of the slab&#x20;
+Structural Slab Level - Underside of the slab
 
-Structural Floor Level - Top level of the slab before architectural finishes&#x20;
+Structural Floor Level - Top level of the slab before architectural finishes
 
 Finished Floor Level - Top level above architectural finishes
 
@@ -50,9 +50,14 @@ From bottom to top:
 * Upper Storey Levels
 * Roof Level (top of roof slab or bottom of roof eaves for sloped roofs)
 
+{% hint style="info" %}
 ## Pro Tip: Establish levels early
 
 It is important to establish working levels early to prevent any miscommunication and errors in the construction of the building elements. Architects are in charge of establishing the levels mentioned above as all the engineers will refer to the same levels for their designs.
 
 Should there be any changes, architects must inform all parties to follow suit.
 
+It is important to establish working levels early to prevent any miscommunication and errors in the construction of the building elements. Architects are in charge of establishing the levels mentioned above as all the engineers will refer to the same levels for their designs.
+
+Should there be any changes, architects must inform all parties to follow suit.
+{% endhint %}
