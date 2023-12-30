@@ -56,19 +56,21 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Start Here
 
-<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>3</td><td>Project Management &#x26; Contract Administration</td><td><a href="03-project-management-and-contract-administration/">03-project-management-and-contract-administration</a></td><td><a href=".gitbook/assets/ALB Chapter 3 -Project Management.png">ALB Chapter 3 -Project Management.png</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr></tbody></table>
 
 ***
 
 ## Coming Soon
 
-* Building Components (Materials & Specifications)
-* Building Typologies
-* Building Code Compliance
-* Building Services
-*   Architecture Communities & Resources (Singapore)
+* Chapter 3 - Project Management and Contract Administration
+* Chapter 4 - Building Components (Materials & Specifications)
+* Chapter 5 - Building Typologies
+* Chapter 6 - Building Code Compliance
+* Chapter 7 - Building Services
+* Architecture Communities & Resources (Singapore)
+* Building Material Suppliers (Singapore and around the world)
 
-    Building Material Suppliers
+ARCHLOGBOOK will remain open source as far as possible and evolve into a valuable resource for young and future architects.
 
 If you would like to contribute to the expanding ARCHLOGBOOK wiki, do contact Gabriel at hello@gabrielchek.com.
 

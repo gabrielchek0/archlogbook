@@ -21,7 +21,7 @@ layout:
 
 </div>
 
-An architect is often misunderstood as to someone who just designs a building. He is a professional who is responsible for the project progress and ensures that the clients needs are addressed while ensuring all contractual, legal and statutory obligations are adhered to.
+An architect is often misunderstood as to someone who just designs a building.  Architects are responsible for the project progress and ensures that the clients needs are addressed while ensuring all contractual, legal and statutory obligations are adhered to.
 
 ***
 
@@ -71,7 +71,7 @@ Architects are in charge of running of the project including handling of variati
 
 **Learn more in Chapter 3:**
 
-[03-project-management-and-contract-administration](../03-project-management-and-contract-administration/ "mention")
+[Broken link](broken-reference "mention")
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
