@@ -1,4 +1,10 @@
+---
+description: XS, S, M & L and A/B/C
+---
+
 # Types of Architectural Practices
+
+<figure><img src="../.gitbook/assets/Types of Practices.png" alt=""><figcaption></figcaption></figure>
 
 There are various kinds of architecture practices, which can be broadly categorized based on scale and project types.
 

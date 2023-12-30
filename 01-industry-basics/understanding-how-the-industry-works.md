@@ -4,7 +4,9 @@ description: Navigating the Supply Chain Of Architectural Practice
 
 # Understanding how the Industry works
 
-To know how to thrive in the building industry, let's try to understand what a supply chain of architecture practice is and your role in it.
+<figure><img src="../.gitbook/assets/ALB Chapter 1-Industry Basics.png" alt=""><figcaption></figcaption></figure>
+
+To know how to thrive in the building industry as an Architect, let's try to understand what a supply chain of architecture practice is and and an Architect's role in it is.
 
 ## What is a Supply Chain?
 

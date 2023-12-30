@@ -1,4 +1,10 @@
+---
+description: With great tools comes great power!
+---
+
 # Software & Tools for Architects
+
+<figure><img src="../.gitbook/assets/Software for Architects.png" alt=""><figcaption></figcaption></figure>
 
 Architecture is increasingly digitalised. As a young and future architect, software skills are essential.
 

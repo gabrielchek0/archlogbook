@@ -4,6 +4,8 @@ description: Things to note when preparing architectural elevation drawings
 
 # Elevations
 
+<figure><img src="../.gitbook/assets/Elevations.png" alt=""><figcaption></figcaption></figure>
+
 _When preparing architectural elevation drawings, architects should consider several key aspects to ensure accuracy and clarity:_
 
 ### **Scale and Proportion**

@@ -53,9 +53,9 @@ Architects are responsible for finding solutions to technical problems that may 
 
 ### **1) Design & Coordination**
 
-This involves conceptualizing, developing and detailing of the building design & site layout, as well as coming up with specifications of materials based on the site context and project/client brief and budget.
+Architects conceptualise, develop and detail building design & site layout, as well as come up with specifications of materials based on the site context and project/client brief and budget.
 
-We also need to work with civil/structural/mechanical/electrical engineers to ensure that the structures and spaces for service provisions is adequate for the building function at all stages of the project.⠀
+They also need to work with civil/structural/mechanical/electrical engineers to ensure that the structures and spaces for service provisions is adequate for the building function at all stages of the project.⠀
 
 **Learn more:**
 
@@ -67,7 +67,7 @@ We also need to work with civil/structural/mechanical/electrical engineers to en
 
 ### **2) Contract Administration & Project Management**
 
-Architects are in charge of running of the project including handling of variations (design changes deviating from contract provision in tender), answering contractor queries through RFIs (request for information) and meeting deadlines and milestones for the project.⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Architects are in charge of running of the project including handling of variations (design changes deviating from contract provision in tender), answering contractor queries through [RFIs ](#user-content-fn-1)[^1]and meeting deadlines and milestones for the project.⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 **Learn more in Chapter 3:**
 
@@ -77,9 +77,9 @@ Architects are in charge of running of the project including handling of variati
 
 ### **3) Code Compliance**
 
-Statutory requirements are in place to ensure occupant safety in our buildings.
+Statutory requirements are in place to ensure occupant safety in buildings.
 
-We work to get approval from the various building authorities and ultimately towards approval for building occupation.
+Architects work to get approval from the various building authorities and ultimately towards approval for building occupation.
 
 There are many building authorities to get approvals from, ranging from urban planning, building control, sanitary/sewerage/drainage, fire safety, environment and many more..
 
@@ -93,6 +93,8 @@ Check out the compilation of code of practices for Singapore:
 
 Architects ensure quality in the design and construction of buildings.
 
-From checking and approving materials that meet specifications, test reports, method statements and conducting site inspections.
+This involves checking and approving materials that meet specifications, test reports, method statements and conducting site inspections.
 
 Buildings must be well and correctly constructed based on approved drawings and specs so that they are safe and easy to maintain.
+
+[^1]: Request for information

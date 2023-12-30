@@ -4,6 +4,8 @@ description: Learn more about the various building construction technologies her
 
 # Building Construction Technologies
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Integrated Digital Delivery</p></figcaption></figure>
+
 We live in an interesting era of building design and construction technologies.&#x20;
 
 Below are the various technologies available for Architects to employ in their building projects to accelerate and improve project delivery and construction.
@@ -12,23 +14,21 @@ Below are the various technologies available for Architects to employ in their b
 
 Integrated Digital Delivery (IDD) is the use of digital technologies to integrate work processes and connect stakeholders working on the same project throughout the construction and building life-cycle. This includes design, fabrication and assembly on-site, as well as the operations and maintenance of buildings.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 **Read more about IDD:**
 
 [Integrated Digital Delivery (IDD)](https://www1.bca.gov.sg/buildsg/digitalisation/integrated-digital-delivery-idd)
 
 ### 2) Building Information Modelling (BIM)
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image cedit - lodplanner.com</p></figcaption></figure>
+
+[https://www.lodplanner.com/what-is-bim/](https://www.lodplanner.com/what-is-bim/)
+
 BIM is a digital representation of a building or infrastructure project that encompasses both graphical and non-graphical information. BIM software allows architects to create intelligent 3D models that contain detailed information about the building's components, materials, systems, and performance attributes.&#x20;
 
 BIM facilitates collaboration among different project stakeholders and improves the accuracy and efficiency of the design and construction process.&#x20;
 
 When creating construction drawings and specifications using BIM, architects can extract relevant information from the model to generate detailed drawings, schedules, quantities, and specifications.
-
-{% content-ref url="software-and-tools-for-architects.md" %}
-[software-and-tools-for-architects.md](software-and-tools-for-architects.md)
-{% endcontent-ref %}
 
 ### 3) Precast Systems
 
@@ -60,9 +60,7 @@ Learn more about PBU:
 
 ### 5) Prefabricated Prefinished Volumetric Consruction (PPVC)
 
-![](<../.gitbook/assets/image (1).png>)
-
-Image credit: Stacked Homes
+![Image credit: Stacked Homes](<../.gitbook/assets/image (1) (1).png>)
 
 Prefabricated Prefinished Volumetric Construction (PPVC) is a construction method whereby free-standing 3-dimensional modules are completed with internal finishes, fixtures and fittings in an off-site fabrication facility, before it is delivered and installed on-site.
 
@@ -74,9 +72,7 @@ Prefabricated Prefinished Volumetric Construction (PPVC) is a construction metho
 
 ### 6) Mass Engineered Timber (MET)
 
-![](<../.gitbook/assets/image (2).png>)
-
-Image credit: Dezeen
+![Image credit: Dezeen](<../.gitbook/assets/image (2) (1).png>)
 
 Mass Engineered Timber (MET) is a building material comprising engineered wood products with improved structural integrity. This includes:
 
@@ -90,10 +86,18 @@ Mass Engineered Timber (MET) is a building material comprising engineered wood p
 * **Improved quality control**– Highly precise and automated manufacturing processes results in high quality finishing.
 * **Environmental sustainability**– MET is harvested from sustainably managed forests, and MET buildings have lower carbon footprint and net carbon emissions compared to steel or concrete buildings
 
+**Learn more about Gaia by Toyo Ito, the largest MET building in Asia, sited in Singapore:**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Image credit : Dezeen</p></figcaption></figure>
+
+{% embed url="https://www.dezeen.com/2023/07/05/toyo-ito-gaia-largest-wooden-building-asia/" %}
+
 **Learn more about MET:**
 
 [The Dezeen guide to mass timber in architecture](https://www.dezeen.com/2023/03/01/dezeen-guide-mass-timber-revolution/)
 
 [Mass Engineered Timber](https://www1.bca.gov.sg/buildsg/productivity/design-for-manufacturing-and-assembly-dfma/mass-engineered-timber)
+
+***
 
 **Source:** Building and Construction Authority Singapore, Stacked Homes, Dezeen

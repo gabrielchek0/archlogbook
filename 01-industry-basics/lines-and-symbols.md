@@ -1,8 +1,12 @@
 ---
-description: Annotate your drawings properly with the right line types and symbols
+description: >-
+  Annotate your drawings properly with the right line types and symbols on
+  architectural plans, sections and elevations
 ---
 
-# Lines & Symbols
+# Annotation Basics: Plans, Sections & Elevations
+
+<figure><img src="../.gitbook/assets/08 Lines and Symbols.png" alt=""><figcaption></figcaption></figure>
 
 Architectural drawings use various line types and symbols to convey information accurately.
 
@@ -71,3 +75,20 @@ Here are common line types and symbols for architectural plans, sections, and el
 {% hint style="info" %}
 **Drafting conventions may vary based on regional standards and individual project requirements.** It's crucial to adhere to industry standards and communicate effectively through clear and standardized symbols and line types
 {% endhint %}
+
+
+
+### Why do we need Tags & Labels?
+
+Tags & labels are commonly seen for the following building elements:
+
+* Doors
+* Windows
+* Walls
+* Roller shutters
+* Columns
+* Beam
+
+Schedules provide a tabular format for more information of each building element.
+
+For example, you will see door schedules with corresponding labels on floor plan, that indicates the material, fire rating, width, height and other information specific to the door type.

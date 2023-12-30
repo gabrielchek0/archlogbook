@@ -1,12 +1,18 @@
+---
+description: Comply or die trying to construct your building.
+---
+
 # Building Compliance Basics
 
-### What is compliance?
+<figure><img src="../.gitbook/assets/Building Compliance.png" alt=""><figcaption></figcaption></figure>
+
+## What is compliance?
 
 Compliance is process where Architects and Engineers plan site layout and design buildings according the planning parameters and statutory requirements in place by building authorities.
 
 All requirements listed in building regulations and statutory acts are required by law with possibility of incurring a fine, time imprisonment and/or both if the qualified persons (Licensed Architect/Professional Engineer)signing off falsely declare full compliance when submitting to the authorities.
 
-Most building design should be able to comply with the ‘prescriptive’ code.
+Most building design should be able to comply with the ‘prescriptive[^1]’ code.
 
 Otherwise, qualified persons can seek alternative ways to demonstrate compliance by simulations and/or waivers (exceptions granted by the building authority.)
 
@@ -59,3 +65,5 @@ Building constructed to approved drawings, on-site inspection and verification.
 </details>
 
 ***
+
+[^1]: Prescriptive code refers to code requirements that are by default and stipulated in building codes and regulations where Qualified Persons must  comply

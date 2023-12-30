@@ -1,5 +1,7 @@
 # Working with Project Briefs
 
+<figure><img src="../.gitbook/assets/Project Brief.png" alt=""><figcaption></figcaption></figure>
+
 Architects need to look out for the following in project brief from clients:
 
 1. **Project scope and objectives**: Overall goals and objectives of the project, including the type and size of the building, the number of floors and rooms, and any specific features or amenities that are required.

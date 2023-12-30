@@ -4,13 +4,15 @@ description: Proper documentation and drawings for effective construction
 
 # Drawings & Specifications
 
+<figure><img src="../.gitbook/assets/Drawings.png" alt=""><figcaption></figcaption></figure>
+
 When creating construction drawings and specifications, an architect typically includes several key elements to effectively communicate the design intent and technical requirements of a project.
 
 **Here are five essential points that architects need to include:**
 
 ### **Detailed Architectural Drawings**
 
-Construction drawings should provide comprehensive details about the architectural design, including **floor plans, elevations, sections, typical details, and 3D views**.&#x20;
+Construction drawings should provide comprehensive details about the architectural design, including **floor plans, elevations, sections, typical details, and 3D views**.
 
 These drawings illustrate the spatial arrangement, dimensions, and relationships of different elements within the building.
 
@@ -38,7 +40,7 @@ Architects need to specify the types, quality standards, and installation method
 
 Construction drawings should contain clear and concise notes and details that provide additional information or instructions to contractors and builders. These may include information about construction techniques, site-specific requirements, sustainability considerations, and any special instructions related to the project.
 
-It's important to note that the specific content and level of detail in construction drawings and specifications may vary depending on the scale, complexity, and specific requirements of the project.&#x20;
+It's important to note that the specific content and level of detail in construction drawings and specifications may vary depending on the scale, complexity, and specific requirements of the project.
 
 {% hint style="info" %}
 **Important**

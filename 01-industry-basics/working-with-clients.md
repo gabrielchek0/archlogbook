@@ -1,4 +1,10 @@
+---
+description: They are not just your paymaster..
+---
+
 # Working with Clients
+
+<figure><img src="../.gitbook/assets/Client and PM.png" alt=""><figcaption></figcaption></figure>
 
 Architects work with clients mainly by:
 

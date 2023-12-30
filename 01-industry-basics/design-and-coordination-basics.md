@@ -1,6 +1,10 @@
+---
+description: Architects cannot work alone
+---
+
 # Design & Coordination Basics
 
-Architects cannot work alone.
+<figure><img src="../.gitbook/assets/Design &#x26; Coordination.png" alt=""><figcaption></figcaption></figure>
 
 Often times, you will need to work with the project engineers across disciplines on a wide variety of design and coordination issues.
 
@@ -45,6 +49,8 @@ Aspects:
 * Lightning Protection System
 
 The list above is non exhaustive.
+
+***
 
 Architects need to collaborate and prepare the necessary information for effective design:
 

@@ -14,7 +14,7 @@ The gap between school and practice is much talked about but there are really no
 
 A piecemeal approach doesn't work.
 
-Thus, if you have just graduated, a good way is to start is to understand sides of architectural education and practice and see how we can bridge the gap.
+For fresh graduates, a good way is to start is to understand sides of architectural education and practice and see how this gap can be bridged.
 
 The Gap:
 
@@ -30,7 +30,7 @@ How to address:
 * Work on improving your technical and soft skills
 * Read all the articles here on this archi wiki!
 
-Thus, the hope is that you become from
+By doing the above, one can move from:
 
 1. Clueless to Confident
 2. Graduate to Professional

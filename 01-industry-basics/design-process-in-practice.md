@@ -4,6 +4,8 @@ description: Learn more about the design process in architecture practice
 
 # Design Process in Practice
 
+<figure><img src="../.gitbook/assets/Processes in Building Projects.png" alt=""><figcaption></figcaption></figure>
+
 The design process for architects typically includes the following steps:
 
 1. **Initial consultation and project briefing:** This is where the architect meets with the client to discuss their needs, budget, and desired outcomes for the project.
