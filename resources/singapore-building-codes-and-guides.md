@@ -283,6 +283,8 @@ Code of Practice for Info Communication Facilities (COPIF)
 
 ***
 
-**Disclaimer**: Do consult your seniors and QPs if you’re not sure on certain clauses. It is important to understand the spirit of the clauses are (ie. why there are implemented in the first place)
+{% hint style="info" %}
+Do consult your seniors and QPs if you’re not sure on certain clauses.&#x20;
 
-**Next:**
+It is important to understand the spirit of the clauses are (ie. why there are implemented in the first place)
+{% endhint %}

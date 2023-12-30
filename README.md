@@ -1,10 +1,10 @@
 ---
 description: Welcome to ARCHLOGBOOK, the best open source wiki for archi practice!
-cover: .gitbook/assets/Wiki archlogbook.png
-coverY: 0
 ---
 
 # Start Here
+
+<figure><img src=".gitbook/assets/ALB gitbook.png" alt=""><figcaption></figcaption></figure>
 
 ## About ARCHLOGBOOK
 

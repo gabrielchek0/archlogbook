@@ -76,7 +76,7 @@ Design information can be directly translated into additive manufacturing ready 
 
 Learn more about the project: [A 3D printed weave panel wall installed at Nike Town London](https://designbuild.nridigital.com/design\_build\_review\_jun21/3d\_printing\_architecture)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>3D Printed Floor at Amsterdam's Schipol airport</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>3D Printed Floor at Amsterdam's Schipol airport</p></figcaption></figure>
 
 Learn more about the project: [3D Printed Floor at Amsterdam's Schipol airport](https://3dprintingindustry.com/news/aectual-3d-printing-floor-amsterdams-schiphol-airport-123112/)
 
