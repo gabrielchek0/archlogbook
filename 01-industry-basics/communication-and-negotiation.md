@@ -1,4 +1,10 @@
+---
+description: Key skills for Architects, explained
+---
+
 # Communication & Negotiation
+
+<figure><img src="../.gitbook/assets/Communication &#x26; Nego.png" alt=""><figcaption></figcaption></figure>
 
 Architects need to be proficient in various types of communication and negotiations skills to effectively convey their design ideas, collaborate with clients and stakeholders, and coordinate with construction teams.
 
@@ -36,7 +42,9 @@ Architects interact with a wide range of individuals, including clients, contrac
 
 By being proficient in these various types of communication, architects can effectively communicate their design vision, collaborate with others, and ensure the successful realization of their projects.
 
-**Related post:** [design-and-coordination-basics.md](design-and-coordination-basics.md "mention")
+**Related post:**&#x20;
+
+[design-and-coordination-basics.md](design-and-coordination-basics.md "mention")
 
 ***
 
@@ -72,4 +80,6 @@ Architects may encounter conflicts or disputes during the course of a project, w
 
 Throughout the construction phase, architects may encounter variation orders (VOs) due to unforeseen site conditions, design modifications, or client requests. Negotiating change orders involves assessing the impacts on the project timeline, cost implications, and ensuring that the revised design aligns with the client's vision.
 
-Having effective negotiation skills helps architects navigate these various scenarios, find win-win solutions, build positive relationships with clients and stakeholders, and ultimately deliver successful projects that meet everyone's objectives. It involves active listening, problem-solving, maintaining open communication, and being able to advocate for the best interests of the project while considering the needs of all parties involved.
+Having effective negotiation skills helps architects navigate these various scenarios, find win-win solutions, build positive relationships with clients and stakeholders, and ultimately deliver successful projects that meet everyone's objectives.&#x20;
+
+It involves active listening, problem-solving, maintaining open communication, and being able to advocate for the best interests of the project while considering the needs of all parties involved.

@@ -120,4 +120,4 @@ All content in the wiki shall not be copyrighted as it is open source. All credi
 
 ARCHLOGBOOK was started by [Gabriel Chek](https://gabrielchek.com), an architect based in Singapore who is working towards increasing clarity and confidence in young and future Architects.&#x20;
 
-Check out his platform at [gabrielchek.com](https://gabrielchek.com).
+Check out his platform (ebooks, mentoring, podcast and Youtube videos) at [gabrielchek.com](https://gabrielchek.com).

@@ -1,4 +1,10 @@
+---
+description: With great power comes...
+---
+
 # Getting Licensed
+
+<figure><img src="../.gitbook/assets/QP.png" alt=""><figcaption></figcaption></figure>
 
 A major milestone for budding architects would be getting licensed as an Registered Architect.
 
@@ -20,8 +26,6 @@ As a candidate for the exams, you would need to be familiar with:
 * Types of Practices
 
 (and so on…)
-
-
 
 {% hint style="info" %}
 The next section is for licensure process for architects in Singapore. If you are not based in Singapore, head over to the [next chapter](../02-urban-site-planning-building-design-concepts/).
@@ -81,4 +85,3 @@ If you’re looking to get QP, here’s what you need to do:
 Check out the open source library full of compiled documents, past year papers and resources for PPE candidates here:
 
 [YOUNG ARCHITECTS LIBRARY - Google Drive](https://drive.google.com/drive/folders/1Rhukq\_AHlvm-As9M0QVZnn8oS7EaSXQG)
-

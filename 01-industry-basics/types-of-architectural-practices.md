@@ -1,5 +1,5 @@
 ---
-description: XS, S, M & L and A/B/C
+description: Scale, project types and Specialisations
 ---
 
 # Types of Architectural Practices
