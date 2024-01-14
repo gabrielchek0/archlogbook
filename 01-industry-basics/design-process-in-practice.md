@@ -19,6 +19,10 @@ The design process for architects typically includes the following steps:
 
 The process is non-exhaustive and may differ based on contract type and locale.
 
+Check out this video by Architect Dami Lee on the Architecture Design Process from the project brief to detailed design ready for construction.
+
+{% embed url="https://www.youtube.com/watch?v=KUjomyjbdQU" %}
+
 **For more details you may refer to the following resources:**
 
 [RIBA Plan of Work 2020](https://www.architecture.com/knowledge-and-resources/resources-landing-page/riba-plan-of-work)
