@@ -6,6 +6,8 @@ description: Catering for vehicular access
 
 Designing driveways is an essential aspect of architectural practice that blends functionality, safety, and accessibility.&#x20;
 
+Typically, these driveways do not only serve cars, but service vehicles such as fire engines, ambulances, lorry/trucks for loading and unloading, refuse trucks and buses. Thus, we need to ensure proper driveway design that will cater for all of these vehicles.
+
 Here are the key concepts to grasp when planning driveways:
 
 ***
@@ -16,6 +18,7 @@ Here are the key concepts to grasp when planning driveways:
 * Ensure access points are strategically located to minimize congestion and align with road junctions or pedestrian pathways. Note access points cannot be too close to bus stop, pedestrian crossings and junctions (about 20-25m).
 * For separate ingress and egress along the same road, as a rule of thumb, the ingress should be positioned first before the egress for smooth traffic flow.
 * For mixed developments, separate entry and exit points for the public and private access to enhance circulation and reduce potential conflicts.
+* Try to position access point near destinations (carparks etc)
 
 ***
 
