@@ -10,7 +10,7 @@ _ARCHLOGBOOK is an online wiki suited for young and future architects as well as
 
 ## Contents
 
-<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>null</td><td>Resources</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>3</td><td>Resources</td><td></td><td><a href=".gitbook/assets/ALB Resources.png">ALB Resources.png</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Disclaimer:** All information shared is based on personal experiences and universal concepts which may not be applicable to your country. Do consult your senior architects when in doubt.
@@ -56,8 +56,6 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ***
 
-***
-
 ## Coming Soon
 
 * Chapter 3 - Project Management and Contract Administration
@@ -68,21 +66,9 @@ Instead, read this book over a few weeks and before starting work in an architec
 * Architecture Communities & Resources (Singapore)
 * Building Material Suppliers (Singapore and around the world)
 
-ARCHLOGBOOK will remain open source as far as possible and evolve into a valuable resource for young and future architects.
+ARCHLOGBOOK will remain open source and evolve into a valuable resource for young and future architects.
 
 If you would like to contribute to the expanding ARCHLOGBOOK wiki, do contact Gabriel at hello@gabrielchek.com.
-
-***
-
-## Archi Resources
-
-Accelerate your work and learning with these resources:
-
-[Calculators](resources/calculators.md)
-
-[Contract Types (Singapore)](resources/contract-types-singapore.md)
-
-[Singapore Building Codes & Guides](resources/singapore-building-codes-and-guides.md)
 
 ***
 
