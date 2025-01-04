@@ -15,11 +15,7 @@ layout:
 
 # What do Architects really do?
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Architect jobscope.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Architect jobscope.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 An architect is often misunderstood as to someone who just designs a building.  Architects are responsible for the project progress and ensures that the clients needs are addressed while ensuring all contractual, legal and statutory obligations are adhered to.
 

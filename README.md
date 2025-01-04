@@ -4,11 +4,13 @@ description: Welcome to ARCHLOGBOOK, the best open source wiki for archi practic
 
 # Start Here
 
-<figure><img src=".gitbook/assets/ALB gitbook.png" alt=""><figcaption></figcaption></figure>
+_ARCHLOGBOOK is an online wiki suited for young and future architects as well as built environment professionals to be aware of the gap between academia and practice and to take steps towards becoming competent and confident in their work._
 
-## About ARCHLOGBOOK
+***
 
-ARCHLOGBOOK is an online wiki suited for young and future architects as well as built environment professionals to be aware of the gap between academia and practice and to take steps towards becoming competent and confident in their work.
+## Contents
+
+<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>null</td><td>Resources</td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Disclaimer:** All information shared is based on personal experiences and universal concepts which may not be applicable to your country. Do consult your senior architects when in doubt.
@@ -53,10 +55,6 @@ Instead, read this book over a few weeks and before starting work in an architec
 </details>
 
 ***
-
-## Start Here
-
-<table data-view="cards" data-full-width="false"><thead><tr><th data-type="number"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1</td><td>Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2</td><td>Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr></tbody></table>
 
 ***
 
@@ -123,3 +121,5 @@ All content in the wiki shall not be copyrighted as it is open source. All credi
 ARCHLOGBOOK was started by [Gabriel Chek](https://gabrielchek.com), an architect based in Singapore who is working towards increasing clarity and confidence in young and future Architects.&#x20;
 
 Check out his platform (ebooks, mentoring, podcast and Youtube videos) at [gabrielchek.com](https://gabrielchek.com).
+
+<figure><img src=".gitbook/assets/ALB gitbook.png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ description: Architects do not work alone; meet the team who makes building desi
 
 # Working with Consultants
 
-<figure><img src="../.gitbook/assets/Consultants.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Consultants.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 An architect typically works with a variety of external consultants throughout the design and construction process of a building project. These consultants may include structural engineers, mechanical engineers, electrical engineers, and other specialists who provide specialized expertise in areas such as acoustics, lighting, and fire protection.
 

@@ -14,6 +14,9 @@ Here are some steps an architect might undertake during a feasibility study:
 4. **Consulting with an in-house real estate broker:** The architect may seek advice from an in-house real estate broker to evaluate the market potential for the proposed project.
 5. **Cost analysis:** The architect carries out a cost analysis to ascertain the financial viability of the project.
 
+***
+
+{% hint style="info" %}
 ### What is the difference between a feasibility study and site analysis?
 
 As for the distinction between a feasibility study and site analysis, a site analysis is the examination of a site's physical and environmental attributes, while a feasibility study evaluates the economic and technical practicality of a project.&#x20;
@@ -21,3 +24,5 @@ As for the distinction between a feasibility study and site analysis, a site ana
 In essence, a site analysis focuses on a site's physical aspects like topography, soil conditions, and vegetation.&#x20;
 
 In contrast, a feasibility study determines the financial and technical feasibility of a project.
+{% endhint %}
+

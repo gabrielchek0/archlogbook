@@ -1,6 +1,6 @@
 # Working with Project Briefs
 
-<figure><img src="../.gitbook/assets/Project Brief.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Project Brief.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Architects need to look out for the following in project brief from clients:
 

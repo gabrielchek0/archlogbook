@@ -4,7 +4,7 @@ description: Robots can build our buildings too?
 
 # Parametric Design in Construction
 
-<figure><img src="../.gitbook/assets/Parametric Design-Construction Header.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Parametric Design-Construction Header.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 In the previous post, we have seen how parametric design is shifting the architectural practice, changing the way we approach the built environment; adopting more data-centric workflows and thus informing the design process.
 
@@ -60,7 +60,7 @@ These methodologies are entirely possible in a 3D environment like Rhino, using 
 
 Using these plugins, fabrication tool paths can be directly generated from the 3D model.
 
-<figure><img src="../.gitbook/assets/cmr.gif" alt=""><figcaption><p>Using the KUKA PRC plug-in to convert geometric information to robot instruction</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/cmr.gif" alt="" width="300"><figcaption><p>Using the KUKA PRC plug-in to convert geometric information to robot instruction</p></figcaption></figure></div>
 
 ***
 
@@ -72,11 +72,11 @@ Additive manufacturing (AM) or additive layer manufacturing (ALM) is the industr
 
 Design information can be directly translated into additive manufacturing ready files that will be used to directly manufacture these components.
 
-<figure><img src="../.gitbook/assets/Nike.jpg" alt=""><figcaption><p>A 3D printed weave panel wall installed at Nike Town London</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Nike.jpg" alt="" width="375"><figcaption><p>A 3D printed weave panel wall installed at Nike Town London</p></figcaption></figure></div>
 
-Learn more about the project: [A 3D printed weave panel wall installed at Nike Town London](https://designbuild.nridigital.com/design\_build\_review\_jun21/3d\_printing\_architecture)
+Learn more about the project: [A 3D printed weave panel wall installed at Nike Town London](https://designbuild.nridigital.com/design_build_review_jun21/3d_printing_architecture)
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>3D Printed Floor at Amsterdam's Schipol airport</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="350"><figcaption><p>3D Printed Floor at Amsterdam's Schipol airport</p></figcaption></figure></div>
 
 Learn more about the project: [3D Printed Floor at Amsterdam's Schipol airport](https://3dprintingindustry.com/news/aectual-3d-printing-floor-amsterdams-schiphol-airport-123112/)
 
@@ -88,7 +88,7 @@ For example, [Woodchip Barn](https://www.dezeen.com/2016/02/23/architectural-ass
 
 Learn more about the project on Dezeen: [Woodchip Barn](https://www.dezeen.com/2016/02/23/architectural-association-students-london-robotically-fabricated-barn-dorset-woodland/)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://www.dezeen.com/2016/02/23/architectural-association-students-london-robotically-fabricated-barn-dorset-woodland/">Woodchip Barn</a> built by AA’s Design &#x26; Make students</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p><a href="https://www.dezeen.com/2016/02/23/architectural-association-students-london-robotically-fabricated-barn-dorset-woodland/">Woodchip Barn</a> built by AA’s Design &#x26; Make students</p></figcaption></figure></div>
 
 {% embed url="https://youtu.be/Hyrh2zmkdg0" %}
 
@@ -104,7 +104,7 @@ ITeCons Laboratory's Facade
 
 At the smallest scale, robotic fabrication can be used for making decorative elements such as facade panels, interior design and product scale that can transform the quality of spaces. An example of this is the ITeCons Laboratory’s facade in Coimbra.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>ITeCons Laboratory's Facade</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>ITeCons Laboratory's Facade</p></figcaption></figure></div>
 
 Learn more about the project: [ITeCons Laboratory's Facade](https://dfl.arq.up.pt/portfolio/itecons-facade/)
 
@@ -124,11 +124,11 @@ As a response to labour shortages brought about the pandemic and a reduction in 
 
 Working either autonomously or collaboratively with human beings, robots are able to streamline the design to fabrication to assembly process, reducing the workload of the human being to that of supervision and planning of fabrication and assembly processes.
 
-For example, the [Spatial Timber Assemblies ](https://dfabhouse.ch/spatial\_timber\_assemblies/)is an innovative prefabrication process for timber frame modules. It combines timber frame construction with the precision and speed of robotic fabrication, regardless of the level of structural complexity.
+For example, the [Spatial Timber Assemblies ](https://dfabhouse.ch/spatial_timber_assemblies/)is an innovative prefabrication process for timber frame modules. It combines timber frame construction with the precision and speed of robotic fabrication, regardless of the level of structural complexity.
 
 <figure><img src="../.gitbook/assets/Spatial Timber Assemblies.gif" alt=""><figcaption></figcaption></figure>
 
-Learn more about the project: [Spatial Timber Assemblies](https://dfabhouse.ch/spatial\_timber\_assemblies/).
+Learn more about the project: [Spatial Timber Assemblies](https://dfabhouse.ch/spatial_timber_assemblies/).
 
 ### Extra _Large: Public Structures_
 
@@ -140,9 +140,9 @@ As fibre composites are usually fabricated with molds, the researchers took a wi
 
 As the building technique does not exist yet, researchers adopted robotic fabrication to generate instructions and syntaxes for this mode of construction using parametric tools from ground up.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fabrication of individual modules for BUGA Fibre Pavilion</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Fabrication of individual modules for BUGA Fibre Pavilion</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Exterior of BUGA Fibre Pavilion</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Exterior of BUGA Fibre Pavilion</p></figcaption></figure></div>
 
 ***
 

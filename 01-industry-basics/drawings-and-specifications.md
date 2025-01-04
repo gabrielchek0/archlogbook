@@ -4,7 +4,7 @@ description: Proper documentation and drawings for effective construction
 
 # Drawings & Specifications
 
-<figure><img src="../.gitbook/assets/Drawings.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Drawings.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 When creating construction drawings and specifications, an architect typically includes several key elements to effectively communicate the design intent and technical requirements of a project.
 

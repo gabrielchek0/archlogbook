@@ -4,13 +4,9 @@ description: >-
   understand the significance of presenting them accurately.
 ---
 
-# Plan Annotations
+# Gridlines & Dimensions
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/04 Plan Annotations.jpg" alt="" width="563"><figcaption><p>Gridlines and dimensions on a floor plan</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/04 Plan Annotations.jpg" alt="" width="375"><figcaption><p>Gridlines and dimensions on a floor plan</p></figcaption></figure></div>
 
 Gridlines & Dimensions between gridlines indicate where a building element is placed based from a reference point on plan.
 

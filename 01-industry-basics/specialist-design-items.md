@@ -4,7 +4,7 @@ Architects work with external design specialists in a building project for vario
 
 Example of such specialists include acoustics, lighting, or landscape design, wayfinding, security.
 
-More details to come.
+\[More details to be added]
 
 {% hint style="warning" %}
 Note: If the specialist design work requires the certification of the Architect, the Architect needs to be aware and familiar with the prevailing statutory codes in order for safe occupancy in future.

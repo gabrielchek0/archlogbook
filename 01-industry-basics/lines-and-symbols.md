@@ -6,7 +6,7 @@ description: >-
 
 # Annotation Basics: Plans, Sections & Elevations
 
-<figure><img src="../.gitbook/assets/08 Lines and Symbols.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/08 Lines and Symbols.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Architectural drawings use various line types and symbols to convey information accurately.
 

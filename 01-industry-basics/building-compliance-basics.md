@@ -4,7 +4,7 @@ description: Comply or die trying to construct your building.
 
 # Building Compliance Basics
 
-<figure><img src="../.gitbook/assets/Building Compliance.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Building Compliance.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## What is compliance?
 

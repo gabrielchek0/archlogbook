@@ -4,11 +4,7 @@ description: Bridging the gap between education and practice..
 
 # Fresh Grad to Architect
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Fresh grad to architect2.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Fresh grad to architect2.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The gap between school and practice is much talked about but there are really no tangible solutions.
 

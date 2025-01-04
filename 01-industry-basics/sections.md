@@ -6,7 +6,7 @@ description: >-
 
 # Sections
 
-<figure><img src="../.gitbook/assets/Sections.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Sections.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 In the realm of architectural drawings, sections are a vital tool that allows architects to reveal the intricate vertical relationships within a building.&#x20;
 

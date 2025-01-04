@@ -6,11 +6,7 @@ description: >-
 
 # Hatches
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/05 - Hatch Types.jpg" alt="" width="563"><figcaption><p>Types of hatches</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/05 - Hatch Types.jpg" alt="" width="375"><figcaption><p>Types of hatches</p></figcaption></figure></div>
 
 Hatches are 2D patterns in architectural drawings such as plans and sections that represent the type of materials for any surface (wall, floor, roof etc).
 

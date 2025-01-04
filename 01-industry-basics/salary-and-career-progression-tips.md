@@ -4,7 +4,7 @@ description: Up and up we go!
 
 # Salary & Career Progression Tips
 
-<figure><img src="../.gitbook/assets/Salary.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Salary.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 According to ChatGPT, to work towards higher salaries and career progression as a young architect, here are some strategies you can consider:
 

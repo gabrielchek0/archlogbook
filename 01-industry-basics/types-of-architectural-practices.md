@@ -4,7 +4,7 @@ description: Scale, project types and Specialisations
 
 # Types of Architectural Practices
 
-<figure><img src="../.gitbook/assets/Types of Practices.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Types of Practices.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 There are various kinds of architecture practices, which can be broadly categorized based on scale and project types.
 

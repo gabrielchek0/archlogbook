@@ -1,8 +1,8 @@
 # Drafting / BIM conventions
 
-<figure><img src="../.gitbook/assets/Drafting (1).png" alt=""><figcaption></figcaption></figure>
-
 BIM (Building Information Modeling) and drafting conventions play a significant role in the creation of construction drawings and specifications.
+
+<div align="left"><figure><img src="../.gitbook/assets/Drafting (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Here's how they are relevant to the architectural process:
 

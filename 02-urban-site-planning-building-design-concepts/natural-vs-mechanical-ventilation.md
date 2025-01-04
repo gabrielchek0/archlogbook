@@ -1,6 +1,6 @@
 # Natural vs Mechanical Ventilation
 
-To achieve thermal comfort and building regulation required ventilation in their buildings, Architects need to cater for adaquate natural or mechanical ventilation.&#x20;
+To achieve thermal comfort and building regulation required ventilation in their buildings, Architects need to cater for adequate natural or mechanical ventilation.&#x20;
 
 In this post, we will dive into the definitions and kinds of ventilations to understand how they work and their respective advantages.
 
@@ -20,6 +20,10 @@ In this post, we will dive into the definitions and kinds of ventilations to und
 
 **Airwell** — Vertical shaft that serves as ventilation for spaces abutting it
 
+**CMH** - Cubic metre per hour, a unit of measurement for airflow or flow rate:&#x20;
+
+**Airflow -** CMH is used to measure the airflow of a ventilating fan. The performance of a fan is plotted on a performance curve, with CMH along the horizontal axis.
+
 ***
 
 ## **Natural Ventilation**
@@ -32,17 +36,33 @@ In this post, we will dive into the definitions and kinds of ventilations to und
 2. **Stack Ventilation:** In stack ventilation, the principle of warm air rising is utilized. Hot air naturally accumulates near the ceiling, creating a pressure difference that draws fresh air in through lower openings and expels warm air through higher vents or openings.
 3. **Windcatchers:** Windcatchers are traditional architectural elements commonly found in arid regions. They capture and direct prevailing winds into the building, creating a cooling effect. Windcatchers are especially effective in naturally cooling indoor spaces.
 
+### Key Design Concepts for Natural Ventilation
+
+1. **Proximity to Airwells and External Spaces**:
+   1. Airwells and external spaces play a pivotal role in facilitating airflow. Buildings are often designed with strategically placed airwells or courtyards to enhance cross-ventilation (within 12m from all areas of the space to be naturally ventilated), drawing cooler air into the interior and allowing warm air to escape.
+   2. Direct access to external spaces maximizes exposure to prevailing winds, typically from the northeast and southeast due to Singapore’s monsoon seasons.
+2. **Effective Area of Openings Relative to Room Size**:
+   1. For optimal ventilation, the effective area of openings (windows, vents, or louvers) should be at least **15-20% of the room's floor area**. Larger openings promote better airflow, while their placement—such as on opposite or adjacent walls—supports cross-ventilation.
+   2. **Influence of Louvres and Sliding Windows**:
+      * **Louvres**: While louvered windows allow airflow even when partially closed, they reduce the effective area by 50% compared to fully open windows due to the inclined slats, which can obstruct some airflow.
+      * **Sliding Windows**: Sliding windows often result in a reduced effective ventilation area, as only half of the window's total area is open at any time. Careful placement and sizing are needed to offset this limitation.
+3. **Ventilation Pathways and Height Differences**:
+   * Incorporating high and low openings in the same space enhances natural ventilation by leveraging the stack effect, where warm air rises and exits through higher openings, drawing cooler air in from below.
+
 ### **Advantages of Natural Ventilation**
 
 * Energy Efficiency: Natural ventilation requires no mechanical systems, reducing energy consumption and operational costs.
 * Connection to Nature: It enhances occupants' connection to the outdoor environment, promoting well-being.
 * Sustainability: It aligns with sustainable design principles by reducing reliance on artificial cooling and heating systems.
 
-### Ensuring adequate Natural ventilation
+### Practical Applications
 
-### Calculating Natural Vent effective area
+To achieve effective natural ventilation:
 
+* Align openings with prevailing wind directions.
+* Incorporate airwells or courtyards in dense developments.
 
+This approach balances functionality with urban context and humid climate, ensuring sustainable and comfortable indoor environments.
 
 ***
 
@@ -61,6 +81,8 @@ In this post, we will dive into the definitions and kinds of ventilations to und
 * Consistency: Mechanical ventilation systems can maintain a consistent indoor air quality regardless of external conditions.
 * Precision: They allow for precise control of ventilation rates, humidity levels, and filtration, which can be essential in healthcare and laboratory settings.
 * Adaptability: Mechanical systems can be integrated with heating, cooling, and air purification systems, offering comprehensive climate control.
+
+***
 
 ### **Choosing the Right Ventilation Strategy**
 

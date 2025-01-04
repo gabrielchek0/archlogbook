@@ -4,7 +4,7 @@ description: They are not just your paymaster..
 
 # Working with Clients
 
-<figure><img src="../.gitbook/assets/Client and PM.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Client and PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Architects work with clients mainly by:
 

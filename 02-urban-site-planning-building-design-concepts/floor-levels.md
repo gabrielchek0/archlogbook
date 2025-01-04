@@ -6,11 +6,7 @@ description: >-
 
 # Floor Levels
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/03 Floor Levels (1).jpg" alt=""><figcaption><p>Overview of floor level annotation used in architectural practice</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/03 Floor Levels (1).jpg" alt="" width="375"><figcaption><p>Overview of floor level annotation used in architectural practice</p></figcaption></figure></div>
 
 ## What is a level?
 
@@ -37,6 +33,8 @@ Finished Floor Level - Top level above architectural finishes
 
 This is set by the Public Utilities Board (PUB) Code of Practice (Drainage). It is to safeguard our buildings from flood risk.
 
+For example, the platform level 104m above sea level is indicated as PL +4.00.
+
 ***
 
 ## Common levels to be established:
@@ -47,7 +45,7 @@ From bottom to top:
 * Driveway Level
 * Apron Level
 * First Storey Level (Minimum Platform Level)
-* Upper Storey Levels
+* Upper Storey Levels (consider floor to floor heights)
 * Roof Level (top of roof slab or bottom of roof eaves for sloped roofs)
 
 {% hint style="info" %}

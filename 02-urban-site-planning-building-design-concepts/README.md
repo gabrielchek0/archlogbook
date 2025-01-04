@@ -4,7 +4,7 @@ description: Learn more about the principles of site planning and building desig
 
 # 02 - Site Planning & Building Design Concepts
 
-<figure><img src="../.gitbook/assets/ALB Chapter 2 -Site Planning.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/ALB Chapter 2 -Site Planning.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Want to have a head start in practice?
 

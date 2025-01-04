@@ -4,7 +4,7 @@ description: What is Conservation/adaptive reuse and the key aspects
 
 # Conservation / Adaptive Reuse
 
-<figure><img src="../.gitbook/assets/Conservation.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Conservation.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## What is Conservation?
 

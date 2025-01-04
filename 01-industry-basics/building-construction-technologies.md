@@ -4,7 +4,7 @@ description: Learn more about the various building construction technologies her
 
 # Building Construction Technologies
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Integrated Digital Delivery</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p>Integrated Digital Delivery</p></figcaption></figure></div>
 
 We live in an interesting era of building design and construction technologies.&#x20;
 
@@ -20,7 +20,7 @@ Integrated Digital Delivery (IDD) is the use of digital technologies to integrat
 
 ### 2) Building Information Modelling (BIM)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Image cedit - lodplanner.com</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Image cedit - lodplanner.com</p></figcaption></figure></div>
 
 [https://www.lodplanner.com/what-is-bim/](https://www.lodplanner.com/what-is-bim/)
 
@@ -60,7 +60,7 @@ Learn more about PBU:
 
 ### 5) Prefabricated Prefinished Volumetric Consruction (PPVC)
 
-![Image credit: Stacked Homes](<../.gitbook/assets/image (1) (1) (1).png>)
+<div align="left"><img src="../.gitbook/assets/image (1) (1) (1).png" alt="Image credit: Stacked Homes" width="375"></div>
 
 Prefabricated Prefinished Volumetric Construction (PPVC) is a construction method whereby free-standing 3-dimensional modules are completed with internal finishes, fixtures and fittings in an off-site fabrication facility, before it is delivered and installed on-site.
 
@@ -72,7 +72,7 @@ Prefabricated Prefinished Volumetric Construction (PPVC) is a construction metho
 
 ### 6) Mass Engineered Timber (MET)
 
-![Image credit: Dezeen](<../.gitbook/assets/image (2) (1) (1).png>)
+<div align="left"><img src="../.gitbook/assets/image (2) (1) (1).png" alt="Image credit: Dezeen" width="375"></div>
 
 Mass Engineered Timber (MET) is a building material comprising engineered wood products with improved structural integrity. This includes:
 
@@ -88,7 +88,7 @@ Mass Engineered Timber (MET) is a building material comprising engineered wood p
 
 **Learn more about Gaia by Toyo Ito, the largest MET building in Asia, sited in Singapore:**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Image credit : Dezeen</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Image credit : Dezeen</p></figcaption></figure></div>
 
 {% embed url="https://www.dezeen.com/2023/07/05/toyo-ito-gaia-largest-wooden-building-asia/" %}
 

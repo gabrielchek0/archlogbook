@@ -4,7 +4,7 @@ description: What is social architecture and why is important?
 
 # Social Architecture
 
-<figure><img src="../.gitbook/assets/Social Architecture.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Social Architecture.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Social architecture is an approach to architecture that focuses on the social aspects of design and the role that architecture can play in shaping and improving communities.
 

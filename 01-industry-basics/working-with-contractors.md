@@ -4,7 +4,7 @@ description: Building your dreams and more!
 
 # Working with Contractors
 
-<figure><img src="../.gitbook/assets/Architect and Contractor.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Architect and Contractor.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The Architect shall collaborate with the Main Contractor to ensure successful execution of the building project.
 

@@ -4,7 +4,7 @@ description: Exploring Scale, Proportion, and Spatial Relationships
 
 # Plans
 
-<figure><img src="../.gitbook/assets/Plans.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Plans.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Architects come up with plans, drawn at various scales that guide the design, construction, and realization of buildings. I
 

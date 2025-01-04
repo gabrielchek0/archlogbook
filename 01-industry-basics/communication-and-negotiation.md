@@ -4,7 +4,7 @@ description: Key skills for Architects, explained
 
 # Communication & Negotiation
 
-<figure><img src="../.gitbook/assets/Communication &#x26; Nego.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Communication &#x26; Nego.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Architects need to be proficient in various types of communication and negotiations skills to effectively convey their design ideas, collaborate with clients and stakeholders, and coordinate with construction teams.
 

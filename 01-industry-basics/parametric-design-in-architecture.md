@@ -4,9 +4,7 @@ description: What is it, why do we need it and how to get started
 
 # Parametric Design in Architecture
 
-
-
-<figure><img src="../.gitbook/assets/Parametric Design-Prac Header.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Parametric Design-Prac Header.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Parametric design has become more prevalent and important in the design and construction of our buildings. It has been touted as one of the biggest changes architecture will see and how work of an Architect will change in the future.
 
@@ -20,7 +18,7 @@ To master parametric design, one needs to understand key concepts such as data a
 
 The best way to understand programming is to visualise how to bake a cake. There are inputs, ingredients that you need to process step-by-step. After certain conditions are met, be it after an x amount of time or reaching a certain temperature, a cake is created, the output.
 
-<figure><img src="../.gitbook/assets/Parametric Cake Model.png" alt=""><figcaption><p>Parametric Design - Inputs, Function, Outputs</p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Parametric Cake Model.png" alt="" width="375"><figcaption><p>Parametric Design - Inputs, Function, Outputs</p></figcaption></figure></div>
 
 ***
 

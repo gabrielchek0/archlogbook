@@ -1,6 +1,8 @@
-# Resources
+---
+description: Check out my resources, specially curated for young and future architects!
+---
 
-Check out my resources, specially curated for young and future architects!
+# Resources
 
 {% content-ref url="calculators.md" %}
 [calculators.md](calculators.md)
@@ -13,8 +15,6 @@ Check out my resources, specially curated for young and future architects!
 {% content-ref url="contract-types-singapore.md" %}
 [contract-types-singapore.md](contract-types-singapore.md)
 {% endcontent-ref %}
-
-
 
 ### Future updates:
 

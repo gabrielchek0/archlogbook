@@ -4,7 +4,7 @@ description: Learn more about the design process in architecture practice
 
 # Design Process in Practice
 
-<figure><img src="../.gitbook/assets/Processes in Building Projects.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Processes in Building Projects.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The design process for architects typically includes the following steps:
 
@@ -27,4 +27,4 @@ Check out this video by Architect Dami Lee on the Architecture Design Process fr
 
 [RIBA Plan of Work 2020](https://www.architecture.com/knowledge-and-resources/resources-landing-page/riba-plan-of-work)
 
-[SIA Scope of Services Matrix](https://apex.sia.org.sg/xshare/SIA\_Scope\_of\_Service\_Matrix-20180814-for\_website.pdf)
+[SIA Scope of Services Matrix](https://apex.sia.org.sg/xshare/SIA_Scope_of_Service_Matrix-20180814-for_website.pdf)

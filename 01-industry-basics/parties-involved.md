@@ -4,7 +4,7 @@ description: Learn more about the various stakeholders in building projects.
 
 # Parties Involved
 
-<figure><img src="../.gitbook/assets/Parties invovled.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Parties invovled.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 There are several parties that are typically involved in a building project.&#x20;
 

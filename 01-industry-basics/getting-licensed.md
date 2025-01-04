@@ -4,7 +4,7 @@ description: With great power comes...
 
 # Getting Licensed
 
-<figure><img src="../.gitbook/assets/QP.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/QP.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 A major milestone for budding architects would be getting licensed as an Registered Architect.
 
@@ -84,4 +84,4 @@ If you’re looking to get QP, here’s what you need to do:
 
 Check out the open source library full of compiled documents, past year papers and resources for PPE candidates here:
 
-[YOUNG ARCHITECTS LIBRARY - Google Drive](https://drive.google.com/drive/folders/1Rhukq\_AHlvm-As9M0QVZnn8oS7EaSXQG)
+[YOUNG ARCHITECTS LIBRARY - Google Drive](https://drive.google.com/drive/folders/1Rhukq_AHlvm-As9M0QVZnn8oS7EaSXQG)

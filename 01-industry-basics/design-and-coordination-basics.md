@@ -4,7 +4,7 @@ description: Architects cannot work alone
 
 # Design & Coordination Basics
 
-<figure><img src="../.gitbook/assets/Design &#x26; Coordination.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Design &#x26; Coordination.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Often times, you will need to work with the project engineers across disciplines on a wide variety of design and coordination issues.
 

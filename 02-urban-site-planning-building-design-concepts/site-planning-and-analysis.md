@@ -6,51 +6,29 @@ description: How to start and things to consider
 
 Here's a short summary on how an architect should approach site analysis and site layout planning:
 
-## **Site Analysis: Unveiling the Potential**
+### **1) Understand the Context**
 
-### **1) Understanding the Context**
+Begin by comprehending the site's physical, historical, cultural, and environmental context. This includes factors like climate, topography, neighboring structures, underground services, nearby infrastructure (roads, footpaths, bus stops) and local regulations (setbacks and buffers). Take photos for easy reference.
 
-Begin by comprehending the site's physical, historical, cultural, and environmental context. This includes factors like climate, topography, neighboring structures, and local regulations.
+### **2) Obtain Existing Topographical / Survey Plan**
 
-### **2) Site Inventory**
+Appoint a registered surveyor to come up with the topographical survey plan to document existing features, such as roads, trees, soil conditions, utilities, neighbouring buildings and any restrictions that may affect the design. This plan should be in CAD and adjusted to SVY21 format for accurate siting of your buildings and ease of coordination. Do check for the site boundary line and ensure all coordinates (northings and eastings) are indicated in the survey plan.
 
-Conduct a thorough site inventory to document existing features, such as trees, soil conditions, utilities, and any restrictions that may affect the design.
+### **3) Test Out Massing and Layout**&#x20;
 
-### **3) User Needs Assessment**
+Familiarize yourself with local planning laws and building codes. Ensure that your design complies with these regulations.
 
-Consult with clients and future users to determine their specific needs, preferences, and functional requirements for the space.
+Plan the site's layout- start to position your buildings and driveways, considering factors like circulation, parking, landscaping, and outdoor spaces. Prioritize efficiency and accessibility. Orientate building fenestrations away from west to reduce solar heat gain in your buildings.&#x20;
 
-***
+### **4) Accessibility**
 
-## **Site Layout Planning: Crafting Functional and Aesthetic Spaces**
+Prioritize accessibility by considering access points, clear wayfinding/pathways for all users (vehicles and pedestrians). Do consider connectivity to various transport nodes such as bus stops, cycling paths and train stations. Also consider public and private access points.
 
-### **1) Zoning and Regulations**
+### **5) Aesthetics and Visual Appeal**
 
-Familiarize yourself with local zoning laws and building codes. Ensure that your design complies with these regulations.
+Pay attention to aesthetics and visual harmony. Create a coherent design that complements the surroundings and enhances the site's beauty. Have a dialogue with the urban context.
 
-### **2) Functional Zoning**
 
-Plan the site's functional zones, considering factors like circulation, parking, landscaping, and outdoor spaces. Prioritize efficiency and accessibility.
-
-### **3) Aesthetics and Visual Appeal**
-
-Pay attention to aesthetics and visual harmony. Create a coherent design that complements the surroundings and enhances the site's beauty.
-
-### **4) Sustainability**
-
-Incorporate sustainable design principles, such as energy-efficient features, rainwater harvesting, and green spaces, to reduce the environmental footprint.
-
-### **5) Flexibility**
-
-Design for adaptability. Anticipate future changes and ensure that the site layout allows for modifications or expansions.
-
-### **6) Safety and Accessibility**
-
-Prioritize safety by integrating features like proper lighting, clear wayfinding, and accessible pathways for all users. Do consider connectivity to various transport nodes such as bus stops, cycling paths and train stations.
-
-### **7) Site Phasing**
-
-If applicable, plan for construction phasing to minimize disruption and optimize the construction process.
 
 {% hint style="info" %}
 ### Different site, different approach.
