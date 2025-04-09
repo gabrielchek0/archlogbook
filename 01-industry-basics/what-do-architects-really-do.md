@@ -81,8 +81,8 @@ There are many building authorities to get approvals from, ranging from urban pl
 
 Check out the compilation of code of practices for Singapore:
 
-{% content-ref url="../resources/singapore-building-codes-and-guides.md" %}
-[singapore-building-codes-and-guides.md](../resources/singapore-building-codes-and-guides.md)
+{% content-ref url="../singapore-building-codes-and-guides.md" %}
+[singapore-building-codes-and-guides.md](../singapore-building-codes-and-guides.md)
 {% endcontent-ref %}
 
 ### **Quality Control**

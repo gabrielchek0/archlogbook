@@ -8,12 +8,12 @@ description: Check out my resources, specially curated for young and future arch
 [calculators.md](calculators.md)
 {% endcontent-ref %}
 
-{% content-ref url="singapore-building-codes-and-guides.md" %}
-[singapore-building-codes-and-guides.md](singapore-building-codes-and-guides.md)
+{% content-ref url="../singapore-building-codes-and-guides.md" %}
+[singapore-building-codes-and-guides.md](../singapore-building-codes-and-guides.md)
 {% endcontent-ref %}
 
-{% content-ref url="contract-types-singapore.md" %}
-[contract-types-singapore.md](contract-types-singapore.md)
+{% content-ref url="../contract-types-singapore.md" %}
+[contract-types-singapore.md](../contract-types-singapore.md)
 {% endcontent-ref %}
 
 ### Future updates:
