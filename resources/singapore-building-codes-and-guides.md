@@ -8,23 +8,29 @@ Below is a summary of the various authority code of practice and guidelines for 
 
 [**Circulars**](https://www1.bca.gov.sg/about-us/news-and-publications/circulars)
 
+[All Codes, Acts, and Regulations](https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/codes-acts-and-regulations) (BCA website)
+
 [**Guidebooks**](https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/guidebooks)
 
 *   **Approved Document**
 
-    [Approved Document 2021](https://www1.bca.gov.sg/docs/default-source/docs-corp-regulatory/approveddoc.pdf)
+    [Approved Document (Version 7.07 March 2025)](https://www1.bca.gov.sg/docs/default-source/docs-corp-regulatory/approved-document-v7-07.pdf)\
+    [Approved Document 2019](https://www1.bca.gov.sg/docs/default-source/docs-corp-regulatory/approveddoc.pdf)
 
     [Understanding the Approved Document](https://www.corenet.gov.sg/media/2187004/bca-understanding-the-approved-document-sections-c-to-p-v10.pdf)
-*   **Accessibility**
+*   **Accessibility**\
+    [Code of Accessibility 2025](https://file.go.gov.sg/bca-coa2025.pdf) ([Circular](https://www.corenet.gov.sg/media/2392153/circular_launch_accessibility-code.pdf))
 
     [Code of Accessibility 2019](https://www1.bca.gov.sg/docs/default-source/universaldesign/accessibilitycode2019.pdf)
 
     [Code of Accessibility 2013](https://www1.bca.gov.sg/docs/default-source/universaldesign/accessibilitycode2013.pdf)
-*   **Buildability**
+*   **Buildability**\
+    [COP 2022](https://www1-bca-gov-sg-admin.cwp.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/cop-on-buildability-20220f6b47e85361460a975ce6e3b54156ac.pdf)\
+    [Addendum 2 2022](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/code-of-practice-on-buildability-2022-edition-_addendum-no-2_final.pdf?sfvrsn=d031d4cc_2)
 
-    [Addendum 2022](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/code-of-practice-on-buildability-2022-edition-_addendum4701f5e120d046988baf88152bc487d7.pdf?sfvrsn=efd1b3ae_0)
+    [Addendum 1 2022](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/code-of-practice-on-buildability-2022-edition-_addendum4701f5e120d046988baf88152bc487d7.pdf?sfvrsn=efd1b3ae_0)
 
-    [COP 2022](https://www1-bca-gov-sg-admin.cwp.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/cop-on-buildability-20220f6b47e85361460a975ce6e3b54156ac.pdf)
+    Older versions:
 
     [COP 2020](https://www1-bca-gov-sg-admin.cwp.sg/docs/default-source/docs-corp-news-and-publications/publications/codes-acts-and-regulations/cop-on-buildability-2020e7f7044a2d8e4a2ca7daacd64c3f0691.pdf)
 
@@ -62,12 +68,18 @@ Below is a summary of the various authority code of practice and guidelines for 
 
     [Overview](https://www1.bca.gov.sg/regulatory-info/building-control/universal-design-and-friendly-buildings/universal-design-guide)
 
-    [Guide to Universal Design index (UDi) 2022](https://www1.bca.gov.sg/docs/default-source/universaldesign/guide-to-udi.pdf)
+    [Guide to Universal Design index (UDi) 2022](https://www1.bca.gov.sg/docs/default-source/universaldesign/guide-to-udi.pdf)\
+    [Universal Design index Checklist (Jun 2022) BP](https://www1.bca.gov.sg/docs/default-source/universaldesign/bca-bp-udi.xlsx?sfvrsn=a631bc37_4)\
+    [Universal Design index Checklist (Jun 2022) TOPCSC](https://www1.bca.gov.sg/docs/default-source/universaldesign/bca-csc-udi.xlsx?sfvrsn=c23884c0_4)\
+    [Submission of completed UDi checklist](https://go.gov.sg/bcaudi-sub)\
+    Older version:
 
     [Universal Design Guide for Public Places 2016](https://www1.bca.gov.sg/docs/default-source/universaldesign/udguide2016.pdf)
 *   **Lifts**
 
     Refer to SS 550: 2020
+
+[**Good Practice Guide - Wind-Driven Rain in High Rise Residential Developments** ](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/publications/good-practice-guide-for-wdr-in-high-rise-residential-developments_v-1-0.pdf?sfvrsn=fcd4c20f_0)
 
 [**Daylight Reflectance Guide**](https://go.gov.sg/bca-daylight-reflectance-guide)
 
@@ -134,9 +146,9 @@ Below is a summary of the various authority code of practice and guidelines for 
     [COP 2017](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/rts/cpfprts2017_interactive.pdf?sfvrsn=666c2b99_2)
 
     [COP 2022](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/rts/cpfprts-2022.pdf)
-*   **Household Shelter**
+*   **Technical Requirements for Household Shelters**
 
-    TRHS 2023 (coming soon)
+    [TRHS 2023 (Web)](https://www.scdf.gov.sg/home/civil-defence-shelter/acts-and-requirements/technical-requirements-for-household-shelters-2023)
 
     [TRHS 2017](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/technical-requirements-for-household-shelters-\(hstr\)-2017_updated-28-may-2018.pdf?sfvrsn=7e339875_0)
 
@@ -155,11 +167,14 @@ Below is a summary of the various authority code of practice and guidelines for 
 {% tab title="NEA" %}
 #### NEA
 
-*   **Environmental Health**
+[https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices](https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices)
 
-    [COP 2021](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh-2021.pdf)
+*   **Environmental Health**\
+    [COPEH 2024](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh-2024.pdf)
 
-    [COP 2017](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh---2017-\(aug\).pdf)
+    [COPEH 2021](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh-2021.pdf)
+
+    [COPEH 2017](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh---2017-\(aug\).pdf)
 *   **Boundary Noise Limits**
 
     [Boundary Noise Limits](https://www.nea.gov.sg/our-services/pollution-control/noise-pollution/industrial-noise-control)
@@ -173,29 +188,48 @@ Below is a summary of the various authority code of practice and guidelines for 
     [Allowable Limits for Trade Effluent Discharge to Watercourse or Controlled Watercourse](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse)
 *   **Cooling Towers**
 
-    [COP for Control of Legionella Bacteria in Cooling Towers](https://www.nea.gov.sg/docs/default-source/our-services/code-of-practice-for-control-of-legionella-bacteria-in-cooling-towers-\(160-kb\).pdf)
+    [COP for Control of Legionella Bacteria in Cooling Towers](https://www.nea.gov.sg/docs/default-source/our-services/code-of-practice-for-control-of-legionella-bacteria-in-cooling-towers-\(160-kb\).pdf) (merged with COPEH 2024)
 {% endtab %}
 
 {% tab title="PUB" %}
 #### PUB
+
+View more guides and handbooks\
+[https://www.pub.gov.sg/Professionals/Resources/Guides-and-Handbooks](https://www.pub.gov.sg/Professionals/Resources/Guides-and-Handbooks)
 
 *   **Surface Water Drainage**
 
     [COP 7th Edition with addendum](https://www.pub.gov.sg/Documents/COP_Surface%20Water%20Drainage_7th%20Ed%20Add.%201.pdf)
 
     [Appendix & Standard Drawings](https://www.pub.gov.sg/compliance/industry/drawings)
-*   **Sanitary / Sewerage Works**
+*   **Sanitary / Sewerage Works**\
+    [CODE OF PRACTICE ON SEWERAGE AND SANITARY WORKS    \
+    (3rd EDITION – MAR 2025)](https://www.pub.gov.sg/-/media/PUB/PDF/Code-of-Practice-on-Sewerage-and-Sanitary-Works-3rd-Edition--Mar-2025.pdf) ([Circular](https://www.pub.gov.sg/-/media/PUB/PDF/Circulars/Building-Plans/PUBCircular-for-COPSSW-3rd-Ed-20251Mar-2025.pdf))
 
-    [COP 2nd Edition 2019 with Addendum](https://www.pub.gov.sg/Documents/COPSSW2nded2019AddendumNo1_final.pdf)
+    [CODE OF PRACTICE ON SEWERAGE AND SANITARY WORKS P 2nd Edition 2019 with Addendum](https://www.pub.gov.sg/Documents/COPSSW2nded2019AddendumNo1_final.pdf)
 
     [Sanitary Drawings](https://www.pub.gov.sg/compliance/industry/drawings)
 *   **Water**
 
     Refer to SS 636:2018
+*   Active Beautiful Clean Waters (ABC) Waters Design Guidelines\
+    [ABC Waters Design Guidelines](https://www.pub.gov.sg/-/media/PUB/PDF/ABC_Waters_Design_Guidelines.pdf)\
+    [Condensed Booklet of Engineering Procedures](https://www.pub.gov.sg/-/media/PUB/Reservoirs/ABC/PDF/Condensed_Booklet_of_Engin_Procedures.pdf)\
+    [Engineering Procedures for ABC Waters Design Features (2024 Edition) ](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Engineering-Procedures-for-ABC-Waters-Design-Features-2024-Edition.pdf)\
+    [Declaration Form for ABC Water Design Features](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Declaration-Form-for-ABC-Waters-Design-Features.docx)
+
+    \
+    \
+
 {% endtab %}
 
 {% tab title="LTA" %}
-#### LTA
+### LTA
+
+Quick Guides (very useful)\
+[https://www.lta.gov.sg/content/ltagov/en/who\_we\_are/statistics\_and\_publications/journals\_and\_newsletters.html](https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/journals_and_newsletters.html)
+
+
 
 *   **Street Works (Road & Transport)**
 
@@ -211,27 +245,67 @@ Below is a summary of the various authority code of practice and guidelines for 
     [Forms & Guides](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html)
 
     [Code of Practice on Vehicle Parking Provision in Development Proposals 2019](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Vehicle_Parking_Proposals/COP_on_Vehicle_Parking_Provision_in_Development_Proposals-2019_Edition.pdf)
-*   **Railway Protection**
+*   **Railway Protection**\
+    [COP for Railway Protection 2024](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Building_Works_Restricted_Activities_in_Railway_Protection_Zone/Codes_of_Practice_Standards_Specifications_Guides_Forms/code_of_practice_for_railway_protection_2024_edition.pdf)
 
     [Forms & Guides](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/building-works---restricted-activities-in-railway-protection-zon/Codes_of_practice_standards_specifications_guides_and_forms.html)
 
     [COP for Railway Protection](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Building_Works_Restricted_Activities_in_Railway_Protection_Zone/Codes_of_Practice_Standards_Specifications_Guides_Forms/Code_of_Practice_for_Railway_Protection.pdf)
-*   **Architectural Design Standards**
 
-    [Architectural Standards](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/street-work-proposals/codes_of_practice_standards_specifications_guides_and_forms/architectural_standards.html)
-*   **Standard Details for Road Elements**
+**Transport Infrastructure Design Criteria & Specifications**\
+[**https://www.lta.gov.sg/content/ltagov/en/industry\_innovations/industry\_matters/development\_construction\_resources/Transport\_Infrastructure\_Design\_Criteria\_and\_Specifications.html**](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/Transport_Infrastructure_Design_Criteria_and_Specifications.html)
 
-    [The Standard Details of Road Elements (Revision E - APR 2022) (PDF, 1.2MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/Standards_and_Specifications/SDRE/Content_Page_April_2022.pdf)
+*   **Architectural Design Criteria (Revision A4, June 2015)**
+
+    [Section 2 - Architectural Design Requirements (PDF, 292kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/ADC_RevA4/ADC%20Section%202_Architectural%20Design%20Requirements.pdf)\
+    [Section 4 - Commuter Facilities Design Requirements and Checklist Forms (PDF, 1.4MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/ADC_RevA4/ADC%20Section%204_CF%20Design%20Requirements%20and%20Checklist%20Forms%20for%20Bus%20Interchanges.pdf)\
+    [Attachments to Section 4.3 - Bus Interchange (PDF, 956kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/ADC_RevA4/Attachments%20to%20Section%204.3_Bus%20Interchange.pdf)
+* Infrastructure Design Criteria (Revision A1, 2022)
+  * [Volume A: Introduction & Objectives (PDF, 241kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/IDC_revA1_2023/IDC_VolA_RevA1.pdf)
+  * Volume B: Rail Infrastructure
+    * [Part I: MRT Station Requirements (PDF, 1.8MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/IDC_revA1_2023/IDC_VOLB1_MRTSTATION_RevA1_Chapters.pdf)
+    * [Part I: Annexes (PDF, 2.5MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/IDC_revA1_2023/IDC_VOLB1_MRTSTATION_RevA1_Annexes.pdf)
+  * Volume C: Commuter Infrastructure
+    * [Commuter Infrastructure Requirements (PDF, 6.5MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/IDC_revA1_2023/IDC_VOLC_CH1to6_with%20_checklists2.pdf)
+    * [Annexes (PDF, 8.6MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/IDC_revA1_2023/IDC%20VOL%20C%20_AnxAtoF_2025.pdf)
+  * Volume D: Bus Infrastructure
+    * Refer to Architecture Design Criteria Section 2 and 4.1 – 4.3 for Bus Interchange Requirements.
+* **Civil Design Critieria**
+  * [Civil Design Criteria (Revision A2, Sep 2019) (PDF, 6.1MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/civil_standards/pdf/EGD09106A2_Overall.pdf)
+*   **Standard Details of Road Elements (Revision G, 2025)**
+
+    The SDRE sets standards and guidelines for common road elements such as drains, kerbs and pavements as a reference for road construction.
+
+    * \[NEW\*] [The Standard Details of Road Elements (Revision G – MAR 2025) (PDF, 910kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/Standards_and_Specifications/SDRE/Content_Page_March_2025.pdf)
+    * [The Standard Details of Road Elements (Revision F - APR 2024) (PDF, 894kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/Standards_and_Specifications/SDRE/Content_Page_April_2024.pdf)
+
+    _\*Note: The updated SDRE (Revision G – MAR 2025) will take effect from 1 June 2025. The existing version of the SDRE (Revision F – APR 2024) will no longer be available online from 1 June 2025._
 
 [**Transport Impact Assessment (TIA) Guidelines for Developments**](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/Guidelines/TIA_Guidelines_WCP_Final_07Dec2018.pdf)
 
 [**Guidebook on Lodgement of Development Submissions**](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/Guidelines/Lodgement_Guidebook_V1.0.pdf)
+
+#### J-walk Guidelines
+
+The J-walk Guidelines set the guidelines for Wayfinding Signage across the Jurong Lake District 2<sup>nd</sup> Storey Pedestrian Network.
+
+* [J-Walk Guidelines (PDF, 1.1MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/Jwalk/20150209%20j%20walk%20signage%20guidelines.pdf)
+
+#### Architectural Materials & Workmanship Specifications (Revision A1, June 2009)
+
+* [Architectural M & W Spec Rev A1 Sections 10 to 110 (PDF, 796kB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/arch_mwspecs/Architectural%20MW%20Spec%20Rev%20A1%20Sections%2010%20to%20110.pdf)
+* [Architectural M & W Spec Rev A1 Sections 120 to 220 (PDF, 1MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/arch_mwspecs/Architectural%20MW%20Spec%20Rev%20A1%20Sections%20120%20to%20220.pdf)
+* [Architectural M & W Spec Rev A1 Sections 230 to 380 (PDF, 1.1MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/pdf/TransportInfrastructure/arch_mwspecs/Architectural%20MW%20Spec%20Rev%20A1%20Sections%20230%20to%20380.pdf)
+
+#### Materials & Workmanship Specifications for Civil & Structural Works (Revision A2, Sep 2020)
+
+* [Materials and Workmanship Specifications for Civil and Structural Works (Revision A2, Sep 2020) (PDF, 6.3MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/civil_standards/pdf/EGD09104A2-Overall.pdf)
 {% endtab %}
 
 {% tab title="NPARKS" %}
 #### NPARKS
 
-[**Guidelines for Greenery Provision**](https://www.nparks.gov.sg/-/media/nparks-real-content/partner-us/nparks-handbook-version-4.ashx)
+[**Guidelines for Greenery Provision**](https://www.nparks.gov.sg/-/media/nparks-real-content/partner-us/nparks-handbook-version-4.ashx) **(Version 4)**
 
 [**Flora Fauna Web**](https://www.nparks.gov.sg/florafaunaweb)
 
@@ -269,9 +343,11 @@ Below is a summary of the various authority code of practice and guidelines for 
 
 #### IMDA (TFCC)
 
-Code of Practice for Info Communication Facilities (COPIF)
+Code of Practice for Info-communication Facilities in Buildings (COPIF)
 
-[COPIF 2018](https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Consultations/completed-consultations/consultation-papers/11/COPIF-2018.pdf)
+[https://www.imda.gov.sg/regulations-and-licensing-listing/code-of-practice-for-info-communication-facilities-in-buildings](https://www.imda.gov.sg/regulations-and-licensing-listing/code-of-practice-for-info-communication-facilities-in-buildings) (for overview and older versions)
+
+[Code of Practice for Info Communication Facilities (COPIF) 2018](https://www.imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/consultations/completed-consultations/consultation-papers/11/copif-2018.pdf)
 
 [2018 Guidelines](https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Consultations/completed-consultations/consultation-papers/11/Guidelines-2018.pdf)
 {% endtab %}
