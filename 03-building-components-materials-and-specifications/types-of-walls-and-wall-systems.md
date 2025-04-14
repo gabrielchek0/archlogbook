@@ -1,4 +1,4 @@
-# Types of Walls and Wall Systems: A Practical Guide for Architects
+# Types of Walls and Wall Systems
 
 Walls are fundamental elements of a building that serve both structural and spatial functions. Choosing the right type of wall is not just about structural requirements—it also involves considerations of constructability, acoustic and fire performance, cost, sustainability, and compliance with regulatory frameworks like BCA's Buildability Framework and Green Mark in Singapore.
 
