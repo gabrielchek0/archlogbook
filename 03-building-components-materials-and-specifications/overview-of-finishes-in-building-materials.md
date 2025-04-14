@@ -10,14 +10,14 @@ This article provides a summary of **common finishes**, their correct applicatio
 
 ***
 
-### **Types of Finishes**
+## **Types of Finishes**
 
 #### **1. Paint**
 
 A liquid or mastic composition that, when applied to a surface, forms a protective and decorative coating.
 
 * **Acrylic Emulsion Paint** – Used for interior walls and ceilings
-* **Alkyd / Oil-Based Paint** – Durable, used for timber and metal surfaces
+* **Enamel/Alkyd / Oil-Based Paint** – Durable, used for timber and metal surfaces
 * **Epoxy Paint** – Industrial-grade, highly resistant to chemicals and abrasion
 * **Intumescent Paint** – Fire-resistant coating used on steel
 
@@ -31,7 +31,7 @@ A thin layer of material (plastic, veneer, or film) bonded to a substrate. Commo
 
 ***
 
-### **Common Building Materials and Compatible Finishes**
+## **Common Building Materials and Compatible Finishes**
 
 | Material             | Suitable Finishes                                                         | Common Locations                                             | Notes                                                                                                   |
 | -------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ A thin layer of material (plastic, veneer, or film) bonded to a substrate. Commo
 
 ***
 
-### **Commonly Misunderstood or Misapplied Finishes**
+## **Commonly Misunderstood or Misapplied Finishes**
 
 | Incorrect Pairing                           | Why It’s a Problem                              | Better Alternative                      |
 | ------------------------------------------- | ----------------------------------------------- | --------------------------------------- |
@@ -55,7 +55,7 @@ A thin layer of material (plastic, veneer, or film) bonded to a substrate. Commo
 
 ***
 
-### **Performance Considerations When Selecting Finishes**
+## **Performance Considerations When Selecting Finishes**
 
 When selecting finishes, consider the following:
 
@@ -69,7 +69,7 @@ When selecting finishes, consider the following:
 
 ***
 
-### **Conclusion**
+## **Conclusion**
 
 Finishes are not just cosmetic — they directly impact a building material's **durability, performance, and compliance**. Understanding the right finish for the right material is critical to delivering a building that stands the test of time and climate, especially in humid tropical climates like Singapore.
 

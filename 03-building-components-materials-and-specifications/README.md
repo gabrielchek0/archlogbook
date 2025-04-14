@@ -14,7 +14,7 @@ This chapter provides a comprehensive overview of key building materials, struct
 
 ***
 
-## **01 - Building Materials & Finishes**
+## **Building Materials & Finishes**
 
 Building materials can be classified into natural (timber, stone) and manufactured (concrete, steel, glass) types. Their selection depends on structural requirements, environmental conditions, and aesthetics. Finishes enhance both the durability and appearance of these materials.
 
@@ -29,7 +29,7 @@ Building materials can be classified into natural (timber, stone) and manufactur
 | **Precast Concrete**         | Factory-made, used for faster construction                                   | Textured, polished, exposed aggregate, paint                  |
 | **Steel**                    | High tensile strength, used in framing, beams, trusses                       | Galvanizing, powder coating, intumescent paint (fireproofing) |
 
-### **Building Components**
+## **Building Components**
 
 Buildings consist of various structural and non-structural components, each playing a critical role in load-bearing and overall stability.
 

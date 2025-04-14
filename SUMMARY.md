@@ -58,6 +58,7 @@
 * [03 - Building Components, Materials & Specifications](03-building-components-materials-and-specifications/README.md)
   * [Overview of Finishes in Building Materials](03-building-components-materials-and-specifications/overview-of-finishes-in-building-materials.md)
   * [Tile Types and Design Considerations](03-building-components-materials-and-specifications/tile-types-and-design-considerations.md)
+  * [Types of Walls and Wall Systems: A Practical Guide for Architects](03-building-components-materials-and-specifications/types-of-walls-and-wall-systems-a-practical-guide-for-architects.md)
 * [Singapore Building Codes & Guides](singapore-building-codes-and-guides.md)
 * [Contract Types (Singapore)](contract-types-singapore.md)
 * [Calculators](calculators.md)

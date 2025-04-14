@@ -14,7 +14,7 @@ This article outlines the different types of tiles, materials, key design consid
 
 ***
 
-### **1. Classification of Tiles by Use**
+## **Classification of Tiles by Use**
 
 | Application Area              | Typical Tile Type                                   |
 | ----------------------------- | --------------------------------------------------- |
@@ -29,7 +29,7 @@ This article outlines the different types of tiles, materials, key design consid
 
 ***
 
-### **2. Tile Materials**
+## **Tile Materials**
 
 * **Porcelain Tiles**: Dense, low water absorption, ideal for high-traffic areas.
 * **Ceramic Tiles**: More porous than porcelain, suitable for light-use areas.
@@ -40,7 +40,7 @@ This article outlines the different types of tiles, materials, key design consid
 
 ***
 
-### **3. Slip Resistance Ratings (Singapore Standards)**
+## **Slip Resistance Ratings (Singapore Standards)**
 
 Slip resistance is critical, especially in wet or outdoor areas. In Singapore, slip resistance is generally specified using **DIN 51130 ramp test ratings**:
 
@@ -54,7 +54,7 @@ Slip resistance is critical, especially in wet or outdoor areas. In Singapore, s
 
 ***
 
-### **4. Typical Tile Sizes**
+## **Typical Tile Sizes**
 
 | Size (mm)                           | Common Usage                                    |
 | ----------------------------------- | ----------------------------------------------- |
@@ -66,25 +66,26 @@ Slip resistance is critical, especially in wet or outdoor areas. In Singapore, s
 
 ***
 
-### **5. Types of Tile Joints**
+### **Types of Tile Patterns**
 
-* **Straight Joints**: Aligned grout lines, clean and modern look
-* **Staggered Joints**: Used with timber-look tiles for natural appearance
-* **Mitre Joints**: Used at corners to eliminate visible edge trims
+* **Stacked/Aligned**: Aligned grout lines, clean and modern look
+* **Offset**: Staggered tile patterns for a more dyanmic look
+* Herringbone: Staggered in 2 directions.
 
 ***
 
-### **6. Best Practices in Tile Installation**
+### **Best Practices in Tile Installation**
 
 * Avoid small cut tiles (<50mm) at edges and thresholds
 * Minimise **lippage** (height difference between adjacent tiles)
 * Align floor and wall tiles, especially in bathrooms
 * Choose tile size that fits the room with minimal cutting
 * **Size rooms in increments of 50mm** for easier tile setting out
+* Used mitre joints at corners to eliminate visible edge trims
 
 ***
 
-### **7. Tips for Tile Setting Out**
+### **Tips for Tile Setting Out**
 
 * Start tile layout from the entrance and work inwards
 * Align tiles with major features: **windows, doors, cabinetry**
@@ -94,13 +95,13 @@ Slip resistance is critical, especially in wet or outdoor areas. In Singapore, s
 
 ***
 
-### **8. Communicating Tiled Finishes to Contractors**
+### **Communicating Tiled Finishes to Contractors**
 
 Architects typically communicate tile finishes through the following documents:
 
 * **Architectural Specifications**: Describe tile material, size, slip resistance rating, joint types, adhesives, and grout colour.
-* **Finishes Schedule / Finishes Plan**: Annotated floor plans showing location, type, and code of finishes in each space (e.g. T01: 600x600 homogeneous tile, R10).
-* **Tile Setting Out Plans**: Detailed drawings indicating layout grids, alignment points, joint lines, and coordination with fixtures and openings. These help avoid cut tiles at doors and ensure continuity across rooms.
+* **Finishes Schedule / Finishes Plan**: Annotated floor plans showing location, type, and code of finishes in each space (e.g. 600x600 homogeneous tile, R10).
+* **Tile Setting Out Plans & Elevations**: Detailed drawings indicating setting out point, layout grids, alignment and joint lines in relation to fixtures and openings. These help avoid cut tiles at doors and ensure continuity across rooms as well as alignment of tile lines from floor to wall.
 * **Section Details**: Include thresholds, skirting junctions, transitions to other finishes (e.g. carpet or vinyl), and waterproofing build-up in wet areas.
 
 > Tip: Always coordinate tile setting out with floor traps, doorways, and window frames early in the design stage to reduce site improvisation and rework.
