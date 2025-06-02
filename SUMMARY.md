@@ -60,6 +60,7 @@
   * [Overview of Finishes in Building Materials](03-building-components-materials-and-specifications/overview-of-finishes-in-building-materials.md)
   * [Tile Types and Design Considerations](03-building-components-materials-and-specifications/tile-types-and-design-considerations.md)
   * [Types of Walls and Wall Systems](03-building-components-materials-and-specifications/types-of-walls-and-wall-systems.md)
+  * [Common Mistakes in Covered Linkway Design](03-building-components-materials-and-specifications/common-mistakes-in-covered-linkway-design.md)
 * [04 - Building Project & Contract Administration](04-building-project-and-contract-administration/README.md)
   * [Overview of Contract Administration](04-building-project-and-contract-administration/overview-of-contract-administration.md)
   * [Tender Process for a Measurement Contract](04-building-project-and-contract-administration/tender-process-for-a-measurement-contract.md)
