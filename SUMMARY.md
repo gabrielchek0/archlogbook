@@ -65,6 +65,7 @@
   * [Overview of Contract Administration](04-building-project-and-contract-administration/overview-of-contract-administration.md)
   * [Tender Process for a Measurement Contract](04-building-project-and-contract-administration/tender-process-for-a-measurement-contract.md)
   * [Project Management for Young Architects: From Design to Completion](04-building-project-and-contract-administration/project-management-for-young-architects-from-design-to-completion.md)
+  * [Common Mistakes Architects Make During Construction Stage (And How to Avoid Them)](04-building-project-and-contract-administration/common-mistakes-architects-make-during-construction-stage-and-how-to-avoid-them.md)
 * [Singapore Building Codes & Guides](singapore-building-codes-and-guides.md)
 * [Contract Types (Singapore)](contract-types-singapore.md)
 * [Calculators](calculators.md)

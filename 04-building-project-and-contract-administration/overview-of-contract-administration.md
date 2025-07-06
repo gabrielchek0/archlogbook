@@ -34,6 +34,8 @@ There are various types of contracts used in the Singapore construction industry
   Used between main contractor and subcontractors (e.g., M\&E trades). Architects typically do not administer these.
 * **Minor Works Contract**\
   For projects with smaller scopes (e.g., under $1M). Simpler terms and processes, fewer formalities.
+* **NEC4 Contract (Collaborative Contracting)** \
+  According to Mr. Sathia Jagateesan, Partner at law firm Allen & Gledhill LLP, said “Collaborative contracting allows project parties to have better time and cost control, better management of risks and efficient project management. Compared to conventional lump-sum contracts, collaborative contracts such as NEC4 contract provides a target cost option which allows project parties to share cost savings or overruns when they occur. This could encourage project parties to resolve issues early and explore more productive solutions together.”
 
 
 
