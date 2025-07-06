@@ -44,19 +44,25 @@ They also need to work with civil/structural/mechanical/electrical engineers to 
 
 **Learn more:**
 
-[design-and-coordination-basics.md](design-and-coordination-basics.md "mention")⠀⠀⠀⠀⠀⠀⠀⠀
+{% content-ref url="design-and-coordination-basics.md" %}
+[design-and-coordination-basics.md](design-and-coordination-basics.md)
+{% endcontent-ref %}
 
-[parties-involved.md](parties-involved.md "mention")
+{% content-ref url="parties-involved.md" %}
+[parties-involved.md](parties-involved.md)
+{% endcontent-ref %}
 
-###
+
 
 ### **2) Contract Administration & Project Management**
 
 Architects are in charge of running of the project including handling of variations (design changes deviating from contract provision in tender), answering contractor queries through [RFIs ](#user-content-fn-1)[^1]and meeting deadlines and milestones for the project.⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-**Learn more in Chapter 3:**
+**Learn more in Chapter 4:**
 
-[Broken link](broken-reference "mention")
+{% content-ref url="../04-building-project-and-contract-administration/" %}
+[04-building-project-and-contract-administration](../04-building-project-and-contract-administration/)
+{% endcontent-ref %}
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
@@ -68,7 +74,7 @@ Architects work to get approval from the various building authorities and ultima
 
 There are many building authorities to get approvals from, ranging from urban planning, building control, sanitary/sewerage/drainage, fire safety, environment and many more..
 
-Check out the compilation of code of practices for Singapore:
+**Check out the compilation of code of practices for Singapore:**
 
 {% content-ref url="../singapore-building-codes-and-guides.md" %}
 [singapore-building-codes-and-guides.md](../singapore-building-codes-and-guides.md)
@@ -81,5 +87,13 @@ Architects ensure quality in the design and construction of buildings.
 This involves checking and approving materials that meet specifications, test reports, method statements and conducting site inspections.
 
 Buildings must be well and correctly constructed based on approved drawings and specs so that they are safe and easy to maintain.
+
+{% content-ref url="../03-building-components-materials-and-specifications/common-mistakes-in-covered-linkway-design.md" %}
+[common-mistakes-in-covered-linkway-design.md](../03-building-components-materials-and-specifications/common-mistakes-in-covered-linkway-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="../04-building-project-and-contract-administration/common-mistakes-architects-make-during-construction-stage-and-how-to-avoid-them.md" %}
+[common-mistakes-architects-make-during-construction-stage-and-how-to-avoid-them.md](../04-building-project-and-contract-administration/common-mistakes-architects-make-during-construction-stage-and-how-to-avoid-them.md)
+{% endcontent-ref %}
 
 [^1]: Request for information
