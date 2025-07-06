@@ -128,6 +128,4 @@ Tiles, while common, require thoughtful design and precise execution. Choosing t
 
 **References:**
 
-* BCA Good Industry Practices: Flooring (2021)
 * SS 485:2011 – Slip Resistance Classification (Singapore)
-* Architecture SG Journal, Issue on Wet Area Detailing

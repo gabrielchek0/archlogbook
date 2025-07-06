@@ -91,9 +91,3 @@ Maintain _a minimum 600mm setback_ between the eave and any vehicular path. Coor
 Designing covered linkways requires an appreciation of function, maintenance, and alignment with urban infrastructure. Many of these mistakes stem from insufficient coordination between architectural, civil, and structural inputs — so early-stage cross-discipline reviews are key.
 
 For young architects in Singapore, remember that linkways are not just aesthetic or tokenistic elements — they are part of the public realm and must be robust, buildable, and climate-resilient.
-
-**References:**
-
-* BCA Code on Accessibility in the Built Environment 2019
-* PUB's Code of Practice on Surface Water Drainage
-* NEA Environmental Health Guidelines

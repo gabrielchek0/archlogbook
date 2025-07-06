@@ -58,13 +58,10 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Coming Soon
 
-* Chapter 3 - Project Management and Contract Administration
-* Chapter 4 - Building Components (Materials & Specifications)
 * Chapter 5 - Building Typologies
 * Chapter 6 - Building Code Compliance
 * Chapter 7 - Building Services
-* Architecture Communities & Resources (Singapore)
-* Building Material Suppliers (Singapore and around the world)
+* Building Material Supplier Directory
 
 ARCHLOGBOOK will remain open source and evolve into a valuable resource for young and future architects.
 

@@ -74,11 +74,3 @@ When selecting finishes, consider the following:
 Finishes are not just cosmetic — they directly impact a building material's **durability, performance, and compliance**. Understanding the right finish for the right material is critical to delivering a building that stands the test of time and climate, especially in humid tropical climates like Singapore.
 
 In future articles, we’ll dive deeper into **performance-based selection of coatings**, **green-certified finishes**, and **detailing for long-lasting performance** in architecture.
-
-***
-
-**Source**:
-
-* BCA Good Industry Practices: Wet Trades, Finishes & Cladding
-* SS 345: Specification for aluminium powder coatings (Singapore Standards)
-* "Finishes in Architecture", _Architecture Singapore Journal_, SIA Publications

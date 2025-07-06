@@ -2,9 +2,11 @@
 
 Below is a summary of the various authority code of practice and guidelines for Architects to comply to with their designs.
 
-{% tabs %}
-{% tab title="BCA" %}
-#### BCA
+I also suggest you check out [archi.sg](https://archi.sg/) searchable database of authority circulars and COPs as well as subscribing to [CORENET ](https://info.corenet.gov.sg/resources/circulars)updates.
+
+<details>
+
+<summary>BCA</summary>
 
 [**Circulars**](https://www1.bca.gov.sg/about-us/news-and-publications/circulars)
 
@@ -94,10 +96,12 @@ Below is a summary of the various authority code of practice and guidelines for 
 [**IDD, BIM Guide & Resources**](https://www1.bca.gov.sg/buildsg/digitalisation/integrated-digital-delivery-idd/idd-resources)
 
 [**Corenet X**](https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x)
-{% endtab %}
 
-{% tab title="URA" %}
-#### URA
+</details>
+
+<details>
+
+<summary>URA</summary>
 
 *   **DC Handbook**
 
@@ -123,10 +127,12 @@ Below is a summary of the various authority code of practice and guidelines for 
 [**Urban Design Requirements for Specific Areas**](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design)
 
 [**Circulars**](https://www.ura.gov.sg/Corporate/Guidelines/Circulars)
-{% endtab %}
 
-{% tab title="SCDF" %}
-#### SCDF
+</details>
+
+<details>
+
+<summary>SCDF</summary>
 
 [**Fire Code 2023 (Web)**](https://www.scdf.gov.sg/firecode2023)
 
@@ -162,12 +168,14 @@ Below is a summary of the various authority code of practice and guidelines for 
 [**Shelter Circulars**](https://www.corenet.gov.sg/general/E-Info/Circulars.aspx?startDate=11/04/2016\&agency=-1)
 
 [**Fire Code Circulars**](https://www.corenet.gov.sg/general/e-info/Circulars.aspx?startDate=22/05/2014\&agency=66369\&page=0)
-{% endtab %}
 
-{% tab title="NEA" %}
-#### NEA
+</details>
 
-[https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices](https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices)
+<details>
+
+<summary>NEA</summary>
+
+Website - [https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices](https://www.nea.gov.sg/corporate-functions/resources/practices-and-guidelines/guidelines/practices)
 
 *   **Environmental Health**\
     [COPEH 2024](https://www.nea.gov.sg/docs/default-source/resource/practices-/copeh-2024.pdf)
@@ -189,12 +197,14 @@ Below is a summary of the various authority code of practice and guidelines for 
 *   **Cooling Towers**
 
     [COP for Control of Legionella Bacteria in Cooling Towers](https://www.nea.gov.sg/docs/default-source/our-services/code-of-practice-for-control-of-legionella-bacteria-in-cooling-towers-\(160-kb\).pdf) (merged with COPEH 2024)
-{% endtab %}
 
-{% tab title="PUB" %}
-#### PUB
+</details>
 
-View more guides and handbooks\
+<details>
+
+<summary>PUB</summary>
+
+Website to view more guides and handbooks\
 [https://www.pub.gov.sg/Professionals/Resources/Guides-and-Handbooks](https://www.pub.gov.sg/Professionals/Resources/Guides-and-Handbooks)
 
 *   **Surface Water Drainage**
@@ -212,19 +222,19 @@ View more guides and handbooks\
 *   **Water**
 
     Refer to SS 636:2018
-*   Active Beautiful Clean Waters (ABC) Waters Design Guidelines\
-    [ABC Waters Design Guidelines](https://www.pub.gov.sg/-/media/PUB/PDF/ABC_Waters_Design_Guidelines.pdf)\
-    [Condensed Booklet of Engineering Procedures](https://www.pub.gov.sg/-/media/PUB/Reservoirs/ABC/PDF/Condensed_Booklet_of_Engin_Procedures.pdf)\
-    [Engineering Procedures for ABC Waters Design Features (2024 Edition) ](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Engineering-Procedures-for-ABC-Waters-Design-Features-2024-Edition.pdf)\
-    [Declaration Form for ABC Water Design Features](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Declaration-Form-for-ABC-Waters-Design-Features.docx)
+* Active Beautiful Clean Waters (ABC) Waters Design Guidelines\
+  [ABC Waters Design Guidelines](https://www.pub.gov.sg/-/media/PUB/PDF/ABC_Waters_Design_Guidelines.pdf)\
+  [Condensed Booklet of Engineering Procedures](https://www.pub.gov.sg/-/media/PUB/Reservoirs/ABC/PDF/Condensed_Booklet_of_Engin_Procedures.pdf)\
+  [Engineering Procedures for ABC Waters Design Features (2024 Edition) ](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Engineering-Procedures-for-ABC-Waters-Design-Features-2024-Edition.pdf)\
+  [Declaration Form for ABC Water Design Features](https://www.pub.gov.sg/-/media/PUB/PDF/Compliance/ABC-Waters-Design-Guidelines/Declaration-Form-for-ABC-Waters-Design-Features.docx)
 
-    \
-    \
+</details>
 
-{% endtab %}
+<details>
 
-{% tab title="LTA" %}
-### LTA
+<summary>LTA</summary>
+
+
 
 Quick Guides (very useful)\
 [https://www.lta.gov.sg/content/ltagov/en/who\_we\_are/statistics\_and\_publications/journals\_and\_newsletters.html](https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/journals_and_newsletters.html)
@@ -300,28 +310,34 @@ The J-walk Guidelines set the guidelines for Wayfinding Signage across the Juron
 #### Materials & Workmanship Specifications for Civil & Structural Works (Revision A2, Sep 2020)
 
 * [Materials and Workmanship Specifications for Civil and Structural Works (Revision A2, Sep 2020) (PDF, 6.3MB)](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/civil_standards/pdf/EGD09104A2-Overall.pdf)
-{% endtab %}
 
-{% tab title="NPARKS" %}
-#### NPARKS
+</details>
+
+<details>
+
+<summary>NPARKS</summary>
 
 [**Guidelines for Greenery Provision**](https://www.nparks.gov.sg/-/media/nparks-real-content/partner-us/nparks-handbook-version-4.ashx) **(Version 4)**
 
 [**Flora Fauna Web**](https://www.nparks.gov.sg/florafaunaweb)
 
 [**Circulars**](https://www.nparks.gov.sg/partner-us/development-plan-submission/circulars)
-{% endtab %}
 
-{% tab title="WSH" %}
-#### WSH
+</details>
+
+<details>
+
+<summary>WSH</summary>
 
 [**Code of Practice for Working Safely at Heights**](https://www.tal.sg/wshc/-/media/tal/wshc/resources/publications/codes-of-practice/files/wsh-code-of-practice-2013_ebook.ashx)
 
 [**Confined Spaces**](https://www.tal.sg/wshc/-/media/tal/wshc/resources/publications/technical-advisories/files/cs2.ashx)
 
 [**Design for Safety**](https://www.tal.sg/wshc/-/media/tal/wshc/resources/publications/wsh-guidelines/files/dfs.ashx)
-{% endtab %}
 
+</details>
+
+{% tabs %}
 {% tab title="Others" %}
 #### SPPG
 
@@ -354,6 +370,12 @@ Code of Practice for Info-communication Facilities in Buildings (COPIF)
 {% endtabs %}
 
 ***
+
+
+
+
+
+
 
 ***
 

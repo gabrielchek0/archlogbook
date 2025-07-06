@@ -168,11 +168,3 @@ The contract sum is fixed based on the successful tender and the contractor proc
 ### Conclusion
 
 Understanding the full tender process for a measurement contract helps architects deliver well-scoped, competitive, and fair construction tenders. The more complete and coordinated the tender package, the fewer the variations and disputes down the line. Architects working closely with the QS and consultants at every stage can ensure a smoother project start and stronger control throughout the construction phase.
-
-***
-
-#### References
-
-* Public Sector Standard Conditions of Contract (PSSCOC) – BCA Singapore
-* SIA Practice Guidelines on Tender Documentation
-* Building and Construction Procurement Guide, Singapore Institute of Architects

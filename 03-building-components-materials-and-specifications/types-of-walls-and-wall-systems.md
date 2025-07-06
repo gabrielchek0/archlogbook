@@ -73,7 +73,6 @@ Understanding wall systems goes beyond technical specs—it impacts cost, speed,
 
 **References:**
 
-* BCA Good Industry Practices: Drywall Partitions
 * BCA Buildable Design Appraisal System (2022)
 * SCDF Fire Code
 * Green Mark Certification Standard for New Buildings (GM:2021)
