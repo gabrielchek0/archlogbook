@@ -10,7 +10,7 @@ _ARCHLOGBOOK is an online wiki suited for young and future architects as well as
 
 ## Contents
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1- Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td></tr><tr><td>2- Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td></tr><tr><td>3- Building Components, Materials &#x26; Specifications</td><td><a href="03-building-components-materials-and-specifications/">03-building-components-materials-and-specifications</a></td><td></td></tr><tr><td>4- Building Projects &#x26; Contract Administration</td><td><a href="04-building-project-and-contract-administration/">04-building-project-and-contract-administration</a></td><td></td></tr><tr><td>Resources</td><td><a href="resources.md">resources.md</a></td><td></td></tr><tr><td>Singapore Building Codes &#x26; Guides</td><td><a href="singapore-building-codes-and-guides.md">singapore-building-codes-and-guides.md</a></td><td></td></tr><tr><td>Contract Types (Singapore)</td><td><a href="contract-types-singapore.md">contract-types-singapore.md</a></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>1- Industry Basics</td><td><a href="01-industry-basics/">01-industry-basics</a></td><td><a href=".gitbook/assets/ALB Chapter 1-Industry Basics.png">ALB Chapter 1-Industry Basics.png</a></td><td></td></tr><tr><td>2- Urban / Site Planning &#x26; Building Design Concepts</td><td><a href="02-urban-site-planning-building-design-concepts/">02-urban-site-planning-building-design-concepts</a></td><td><a href=".gitbook/assets/ALB Chapter 2 -Site Planning.png">ALB Chapter 2 -Site Planning.png</a></td><td></td></tr><tr><td>3- Building Components, Materials &#x26; Specifications</td><td><a href="03-building-components-materials-and-specifications/">03-building-components-materials-and-specifications</a></td><td><a href=".gitbook/assets/ALB-Chapter1@2x.jpg">ALB-Chapter1@2x.jpg</a></td><td></td></tr><tr><td>4- Building Projects &#x26; Contract Administration</td><td><a href="04-building-project-and-contract-administration/">04-building-project-and-contract-administration</a></td><td><a href=".gitbook/assets/ALB-Chapter4.jpg">ALB-Chapter4.jpg</a></td><td></td></tr><tr><td>Singapore Building Codes &#x26; Guides</td><td><a href="singapore-building-codes-and-guides.md">singapore-building-codes-and-guides.md</a></td><td><a href=".gitbook/assets/ALB-SG codes.jpg">ALB-SG codes.jpg</a></td><td></td></tr><tr><td>Contract Types (Singapore)</td><td><a href="contract-types-singapore.md">contract-types-singapore.md</a></td><td><a href=".gitbook/assets/ALB-Contracts.jpg">ALB-Contracts.jpg</a></td><td></td></tr><tr><td>Calculators</td><td><a href="calculators.md">calculators.md</a></td><td><a href=".gitbook/assets/ALB-Calculators.jpg">ALB-Calculators.jpg</a></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Disclaimer:** All information shared is based on personal experiences and universal concepts which may not be applicable to your country. Do consult your senior architects when in doubt.
@@ -58,9 +58,9 @@ Instead, read this book over a few weeks and before starting work in an architec
 
 ## Coming Soon
 
-* Chapter 5 - Building Typologies
-* Chapter 6 - Building Code Compliance
-* Chapter 7 - Building Services
+* Building Typologies
+* Building Code Compliance
+* Building Services
 * Building Material Supplier Directory
 
 ARCHLOGBOOK will remain open source and evolve into a valuable resource for young and future architects.

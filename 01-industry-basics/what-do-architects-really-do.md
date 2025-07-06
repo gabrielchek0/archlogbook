@@ -1,16 +1,5 @@
 ---
 description: Key Responsibilities and Job scope of an Architect, explained.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # What do Architects really do?
