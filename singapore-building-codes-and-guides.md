@@ -1,8 +1,14 @@
+---
+description: >-
+  Looking for a summary of the various authority code of practice and
+  guidelines? You are in the right place!
+---
+
 # Singapore Building Codes & Guides
 
-Below is a summary of the various authority code of practice and guidelines for Architects to comply to with their designs.
+<div align="left"><figure><img src=".gitbook/assets/ALB-SG codes.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-I also suggest you check out [archi.sg](https://archi.sg/) searchable database of authority circulars and COPs as well as subscribing to [CORENET ](https://info.corenet.gov.sg/resources/circulars)updates.
+Below are the various authority codes categorized for easy reference. I also suggest you check out [archi.sg](https://archi.sg/) searchable database of authority circulars and COPs as well as subscribing to [CORENET ](https://info.corenet.gov.sg/resources/circulars)updates.
 
 <details>
 
@@ -368,14 +374,6 @@ Code of Practice for Info-communication Facilities in Buildings (COPIF)
 [2018 Guidelines](https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Consultations/completed-consultations/consultation-papers/11/Guidelines-2018.pdf)
 {% endtab %}
 {% endtabs %}
-
-***
-
-
-
-
-
-
 
 ***
 

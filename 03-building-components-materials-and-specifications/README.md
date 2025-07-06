@@ -6,6 +6,8 @@ description: >-
 
 # 03 - Building Components, Materials & Specifications
 
+<div align="left"><figure><img src="../.gitbook/assets/ALB-Chapter1@2x-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 Buildings are made up of various materials, components, and systems, each serving different _structural_, _functional_, and _aesthetic_ purposes.&#x20;
 
 Understanding these elements is crucial for architects, engineers, and builders to ensure durability, cost-efficiency, and sustainability.&#x20;

@@ -6,7 +6,7 @@ description: >-
 
 # 01 - Industry Basics
 
-<div align="left"><figure><img src="../.gitbook/assets/ALB Chapter 1-Industry Basics.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/ALB-Chapter1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Topics covered in this chapter include:
 

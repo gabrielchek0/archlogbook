@@ -6,6 +6,8 @@ description: >-
 
 # 04 - Building Project & Contract Administration
 
+<div align="left"><figure><img src="../.gitbook/assets/ALB-Chapter4.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% content-ref url="overview-of-contract-administration.md" %}
 [overview-of-contract-administration.md](overview-of-contract-administration.md)
 {% endcontent-ref %}
